@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true)
+![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani)](https://github.com/saiemgilani/saiemgilani)
 
 <!--
