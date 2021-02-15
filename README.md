@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani)](https://github.com/saiemgilani/saiemgilani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8)](https://github.com/saiemgilani/saiemgilani)
 
 <!--
 **saiemgilani/saiemgilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
