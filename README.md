@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8)](https://github.com/saiemgilani/saiemgilani)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR)](https://github.com/saiemgilani/cfbscrapR)<a href='http://saiemgilani.github.io/cfbscrapR'><img src='http://saiemgilani.github.io/cfbscrapR/man/figures/logo.png' align="right" height="139" /></a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR)](https://github.com/saiemgilani/cfbscrapR)<a href='http://saiemgilani.github.io/cfbscrapR'><img src='https://github.com/saiemgilani/cfbscrapR/man/figures/logo.png' align="right" height="139" /></a>
 <!--
 **saiemgilani/saiemgilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
