@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/saiemgilani/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8&hide_border=true&theme=monokai&layout=compact)](https://github.com/saiemgilani)
 
-<a href="https://twitter.com/saiemgilani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a> <a href="https://www.linkedin.com/in/saiem-gilani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a><a href="https://github.com/saiemgilani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a>
+<a href="https://twitter.com/saiemgilani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a> <a href="https://www.linkedin.com/in/saiem-gilani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a> <a href="https://github.com/saiemgilani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a>
 # [GameOnPaper.com](https://gameonpaper.com/cfb)
 
 [![ForTheBadge built-with-swag](https://forthebadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/saiemgilani/)
