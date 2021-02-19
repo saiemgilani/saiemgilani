@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/saiemgilani/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8&hide_border=true&theme=monokai&layout=compact)](https://github.com/saiemgilani)
 
 <a href="https://twitter.com/saiemgilani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a> <a href="https://www.linkedin.com/in/saiem-gilani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a> <a href="https://github.com/saiemgilani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a>
 # [GameOnPaper.com](https://gameonpaper.com/cfb)
@@ -16,8 +15,10 @@
 [![cfbrecruitR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbrecruitR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbrecruitR)<a href='http://saiemgilani.github.io/cfbrecruitR'><img src='cfbrecruitR.png' style="float:center;margin:20px" height="139" /></a>
 
 # NPM Modules
-[![cbb-npm Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cbb-npm&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cbb-npm)<a href='https://www.npmjs.com/package/cbb-npm'>[![NPM](https://nodei.co/npm/cbb-npm.png)](https://npmjs.org/package/cbb-npm)
-</a>
+
+[![cbb-npm Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cbb-npm&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cbb-npm)
+[![npm](https://img.shields.io/npm/v/cbb-npm?style=for-the-badge)](https://www.npmjs.com/package/cbb-npm)<a href='https://www.npmjs.com/package/cbb-npm'>[![NPM](https://nodei.co/npm/cbb-npm.png)](https://npmjs.org/package/cbb-npm)</a>[![npm](https://img.shields.io/npm/dm/cbb-npm)](https://www.npmjs.com/package/cbb-npm)
+<img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/cbb-npm?style=for-the-badge">
 
 # Data Repositories
 [![cfbscrapR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR-data)<a href='https://github.com/saiemgilani/cfbscrapR-data'><img src='cfbscrapR_data_repo.png' style="float:center;margin:20px" height="139" /></a>
@@ -25,6 +26,9 @@
 [![kenpomR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR-data)
 
 [![pbp-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=pbp-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/pbp-data)
+
+[![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/saiemgilani/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8&hide_border=true&theme=monokai&layout=compact)](https://github.com/saiemgilani)
+
 
 <!--
 **saiemgilani/saiemgilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
