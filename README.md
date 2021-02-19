@@ -30,7 +30,7 @@
 
 
 # Data Repositories
-[![cfbscrapR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR-data)<a href='https://github.com/saiemgilani/cfbscrapR-data'><img src='cfbscrapR_data_repo.png' style="float:center;margin:20px" height="139" /></a>
+[![cfbscrapR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR-data)<a href='https://github.com/saiemgilani/cfbscrapR-data'><img src='cfbscrapR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
 
 [![kenpomR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR-data)
 
