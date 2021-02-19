@@ -10,10 +10,12 @@
 # NPM Modules
 
 [![sportsdataverse Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sportsdataverse&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/sportsdataverse)
+
 [![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)<a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse)</a>[![npm](https://img.shields.io/npm/dm/sportsdataverse)](https://www.npmjs.com/package/sportsdataverse)
 <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/sportsdataverse?style=for-the-badge">
 
 [![cbb-npm Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cbb-npm&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cbb-npm)
+
 [![npm](https://img.shields.io/npm/v/cbb-npm?style=for-the-badge)](https://www.npmjs.com/package/cbb-npm)<a href='https://www.npmjs.com/package/cbb-npm'>[![NPM](https://nodei.co/npm/cbb-npm.png)](https://npmjs.org/package/cbb-npm)</a>[![npm](https://img.shields.io/npm/dm/cbb-npm)](https://www.npmjs.com/package/cbb-npm)
 <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/cbb-npm?style=for-the-badge">
 
