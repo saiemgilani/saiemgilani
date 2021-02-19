@@ -18,6 +18,7 @@
 <a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse)</a>
 
 [![cbb-npm Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cbb-npm&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cbb-npm)
+
 [![npm](https://img.shields.io/npm/v/cbb-npm?style=for-the-badge)](https://www.npmjs.com/package/cbb-npm)[![npm](https://img.shields.io/npm/dm/cbb-npm?style=for-the-badge)](https://www.npmjs.com/package/cbb-npm)
 <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/cbb-npm?style=for-the-badge">
 
