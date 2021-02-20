@@ -34,7 +34,7 @@
 [![cfbrecruitR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbrecruitR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbrecruitR)<a href='http://saiemgilani.github.io/cfbrecruitR'><img src='cfbrecruitR.png' style="float:center;margin:20px" height="120" /></a>
 
 ## Data Repositories
-
+<details><summary> CFB, CBB, and Play-by-Plays </summary>
 [![cfbscrapR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR-data)<a href='https://github.com/saiemgilani/cfbscrapR-data'><img src='cfbscrapR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
 
 [![kenpomR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR-data)
@@ -50,6 +50,7 @@
 <a href="https://linkedin.com/in/saiem-gilani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saiem-gilani" height="30" width="40" /></a>
 <a href="https://kaggle.com/saiemgilani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="saiemgilani" height="30" width="40" /></a>
 </p>
+</details>
 
 ## **Languages and Tools:**
 <p align="left">
