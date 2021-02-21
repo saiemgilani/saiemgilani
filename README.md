@@ -34,7 +34,8 @@
 [![cfbrecruitR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbrecruitR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbrecruitR)<a href='http://saiemgilani.github.io/cfbrecruitR'><img src='cfbrecruitR.png' style="float:center;margin:20px" height="120" /></a>
 
 ## Data Repositories
-<details><summary> CFB, CBB, and Play-by-Plays </summary>
+
+<details><summary>  CFB, CBB, and Play-by-Plays </summary>
 
 [![cfbscrapR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR-data)<a href='https://github.com/saiemgilani/cfbscrapR-data'><img src='cfbscrapR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
 
