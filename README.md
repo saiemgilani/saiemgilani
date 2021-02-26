@@ -31,6 +31,8 @@
 
 [![kenpomR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR)<a href='http://saiemgilani.github.io/kenpomR'><img src='kenpomR.png' style="float:center;margin:20px" height="120" /></a>
 
+[![wehoop Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=wehoop&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/wehoop)<a href='http://saiemgilani.github.io/wehoop'><img src='wehoop.png' style="float:center;margin:20px" height="120" /></a>
+
 [![cfbrecruitR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbrecruitR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbrecruitR)<a href='http://saiemgilani.github.io/cfbrecruitR'><img src='cfbrecruitR.png' style="float:center;margin:20px" height="120" /></a>
 
 ## Data Repositories
