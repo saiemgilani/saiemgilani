@@ -6,16 +6,17 @@
 
 [![Game on Paper Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=game-on-paper-app&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/game-on-paper-app)<a href='https://gameonpaper.com/cfb/game/401013131'><img src='gameonpaper_screenshot.png' style="float:center;margin:20px" height="139" /></a>
 
-[![ForTheBadge built-with-swag](https://forthebadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/saiemgilani/)
+<!-- [![ForTheBadge built-with-swag](https://forthebadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/saiemgilani/) -->
 
-## NPM Modules
+## Node.js modules
 
 [![sportsdataverse Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sportsdataverse&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/sportsdataverse)
-
-[![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
+[**Documentation**](https://saiemgilani.github.io/sportsdataverse/index.html)
+[![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://saiemgilani.github.io/sportsdataverse/index.html)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
 <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/sportsdataverse?style=for-the-badge">
 
 <a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse)</a>
+<details><summary>  superseded </summary>
 
 [![cbb-npm Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cbb-npm&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cbb-npm)
 
@@ -23,10 +24,11 @@
 <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/cbb-npm?style=for-the-badge">
 
 <a href='https://www.npmjs.com/package/cbb-npm'>[![NPM](https://nodei.co/npm/cbb-npm.png)](https://npmjs.org/package/cbb-npm)</a>
+</details>
 
 ## R Packages
 
-[![cfbscrapR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR)<a href='http://saiemgilani.github.io/cfbscrapR'><img src='cfbscrapR.png' style="float:center;margin:20px" height="120" /></a>
+[![cfbfastR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbfastR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbfastR)<a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a>
 
 
 [![kenpomR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR)<a href='http://saiemgilani.github.io/kenpomR'><img src='kenpomR.png' style="float:center;margin:20px" height="120" /></a>
@@ -35,15 +37,23 @@
 
 [![cfbrecruitR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbrecruitR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbrecruitR)<a href='http://saiemgilani.github.io/cfbrecruitR'><img src='cfbrecruitR.png' style="float:center;margin:20px" height="120" /></a>
 
+<details><summary>  archived </summary>
+[![cfbscrapR-archived Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR)<a href='http://saiemgilani.github.io/cfbscrapR'><img src='cfbscrapR.png' style="float:center;margin:20px" height="120" /></a>
+</details>
+
 ## Data Repositories
 
 <details><summary>  CFB, CBB, and Play-by-Plays </summary>
 
-[![cfbscrapR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR-data)<a href='https://github.com/saiemgilani/cfbscrapR-data'><img src='cfbscrapR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
+[![cfbfastR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbfastR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbfastR-data)<a href='https://github.com/saiemgilani/cfbfastR-data'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a>
 
 [![kenpomR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR-data)
 
 [![pbp-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=pbp-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/pbp-data)
+
+
+
+[![cfbscrapR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR-data)<a href='https://github.com/saiemgilani/cfbscrapR-data'><img src='cfbscrapR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/saiemgilani" target="blank"><img src="https://img.shields.io/twitter/follow/saiemgilani?logo=twitter&style=for-the-badge" alt="saiemgilani" /></a> </p>
@@ -73,11 +83,13 @@
  
  
  
-  ### **Cloud Platforms and CL/CI/CD**
- <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
+### **Cloud Platforms and CL/CI/CD**
+  
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
  
- ### **Statistical Software**
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a>
+### **Statistical Software**
+ 
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a>
          </p>
 ****
 
