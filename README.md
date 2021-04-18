@@ -32,6 +32,7 @@
 ## R Packages
 
 [![cfbfastR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbfastR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbfastR)<a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/cfbfastR?color=blue&label=%40cfbfastR&logo=twitter&style=for-the-badge)](https://twitter.com/cfbfastR) ![Version-Number](https://img.shields.io/github/r-package/v/saiemgilani/cfbfastr?label=cfbfastR&logo=R&style=for-the-badge)![R-CMD-check](https://img.shields.io/github/workflow/status/saiemgilani/cfbfastr/R-CMD-check?label=R-CMD-Check&logo=R&logoColor=blue&style=for-the-badge) ![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=for-the-badge&logo=github)
 
 
 [![kenpomR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR)<a href='http://saiemgilani.github.io/kenpomR'><img src='kenpomR.png' style="float:center;margin:20px" height="120" /></a>
