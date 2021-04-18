@@ -4,14 +4,17 @@
 
 ##  [GameOnPaper.com](https://gameonpaper.com/cfb)
 
-[![Game on Paper Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=game-on-paper-app&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/game-on-paper-app)<a href='https://gameonpaper.com/cfb/game/401013131'><img src='gameonpaper_screenshot.png' style="float:center;margin:20px" height="139" /></a>
+<!-- [![Game on Paper Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=game-on-paper-app&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/game-on-paper-app) -->
+<a href='https://gameonpaper.com/cfb/game/401013131'><img src='gameonpaper_screenshot.png' style="float:center;margin:20px" height="139" /></a>
 
 <!-- [![ForTheBadge built-with-swag](https://forthebadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/saiemgilani/) -->
 
 ## Node.js modules
 
 [![sportsdataverse Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sportsdataverse&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/sportsdataverse)
+
 [**Documentation**](https://saiemgilani.github.io/sportsdataverse/index.html)
+
 [![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://saiemgilani.github.io/sportsdataverse/index.html)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
 <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/sportsdataverse?style=for-the-badge">
 
