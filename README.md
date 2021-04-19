@@ -46,6 +46,7 @@
 ![Version-Number](https://img.shields.io/github/r-package/v/saiemgilani/cfbrecruitR?label=cfbrecruitR&logo=R&style=for-the-badge)![R-CMD-check](https://img.shields.io/github/workflow/status/saiemgilani/cfbrecruitR/R-CMD-check?label=R-CMD-Check&logo=R&logoColor=blue&style=for-the-badge) ![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=for-the-badge&logo=github)
 
 <details><summary>  archived </summary>
+
 [![cfbscrapR-archived Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR)<a href='http://saiemgilani.github.io/cfbscrapR'><img src='cfbscrapR.png' style="float:center;margin:20px" height="120" /></a>
 </details>
 
