@@ -19,6 +19,45 @@
 <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/sportsdataverse?style=for-the-badge">
 
 <a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse)</a>
+
+
+## R Packages
+
+[![cfbfastR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbfastR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbfastR)<a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/cfbfastR?color=blue&label=%40cfbfastR&logo=twitter&style=for-the-badge)](https://twitter.com/cfbfastR) ![Version-Number](https://img.shields.io/github/r-package/v/saiemgilani/cfbfastr?label=cfbfastR&logo=R&style=for-the-badge) ![R-CMD-check](https://img.shields.io/github/workflow/status/saiemgilani/cfbfastr/R-CMD-check?label=R-CMD-Check&logo=R&logoColor=blue&style=for-the-badge) ![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=for-the-badge&logo=github)
+
+[![kenpomR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR)<a href='http://saiemgilani.github.io/kenpomR'><img src='kenpomR.png' style="float:center;margin:20px" height="120" /></a>
+![Version-Number](https://img.shields.io/github/r-package/v/saiemgilani/kenpomR?label=kenpomR&logo=R&style=for-the-badge) ![R-CMD-check](https://img.shields.io/github/workflow/status/saiemgilani/kenpomR/R-CMD-check?label=R-CMD-Check&logo=R&logoColor=blue&style=for-the-badge) ![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=for-the-badge&logo=github)
+
+[![wehoop Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=wehoop&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/wehoop)<a href='http://saiemgilani.github.io/wehoop'><img src='wehoop.png' style="float:center;margin:20px" height="120" /></a>
+
+![Version-Number](https://img.shields.io/github/r-package/v/saiemgilani/wehoop?label=wehoop&logo=R&style=for-the-badge) ![R-CMD-check](https://img.shields.io/github/workflow/status/saiemgilani/wehoop/R-CMD-check?label=R-CMD-Check&logo=R&logoColor=blue&style=for-the-badge) ![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=for-the-badge&logo=github)
+
+[![cfbrecruitR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbrecruitR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbrecruitR)<a href='http://saiemgilani.github.io/cfbrecruitR'><img src='cfbrecruitR.png' style="float:center;margin:20px" height="120" /></a>
+![Version-Number](https://img.shields.io/github/r-package/v/saiemgilani/cfbrecruitR?label=cfbrecruitR&logo=R&style=for-the-badge) ![R-CMD-check](https://img.shields.io/github/workflow/status/saiemgilani/cfbrecruitR/R-CMD-check?label=R-CMD-Check&logo=R&logoColor=blue&style=for-the-badge) ![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=for-the-badge&logo=github)
+
+## Data Repositories
+
+<details><summary>  CFB, CBB, and Play-by-Plays </summary>
+
+[![cfbfastR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbfastR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbfastR-data)<a href='https://github.com/saiemgilani/cfbfastR-data'><img src='cfbfastR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
+
+[![kenpomR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR-data)
+
+[![pbp-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=pbp-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/pbp-data)
+
+</details>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/saiemgilani" target="blank"><img src="https://img.shields.io/twitter/follow/saiemgilani?logo=twitter&style=for-the-badge" alt="saiemgilani" /></a> </p>
+<p align="left">
+<a href="https://www.patreon.com/join/sportsdataverse?"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /><a> </p>
+
+<details><summary>  archived </summary>
+
+[![cfbscrapR-archived Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR)<a href='http://saiemgilani.github.io/cfbscrapR'><img src='cfbscrapR.png' style="float:center;margin:20px" height="120" /></a>
+</details>
+
 <details><summary>  superseded </summary>
 
 [![cbb-npm Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cbb-npm&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cbb-npm)
@@ -29,57 +68,7 @@
 <a href='https://www.npmjs.com/package/cbb-npm'>[![NPM](https://nodei.co/npm/cbb-npm.png)](https://npmjs.org/package/cbb-npm)</a>
 </details>
 
-## R Packages
-
-[![cfbfastR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbfastR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbfastR)<a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a>
-[![Twitter Follow](https://img.shields.io/twitter/follow/cfbfastR?color=blue&label=%40cfbfastR&logo=twitter&style=for-the-badge)](https://twitter.com/cfbfastR) ![Version-Number](https://img.shields.io/github/r-package/v/saiemgilani/cfbfastr?label=cfbfastR&logo=R&style=for-the-badge)![R-CMD-check](https://img.shields.io/github/workflow/status/saiemgilani/cfbfastr/R-CMD-check?label=R-CMD-Check&logo=R&logoColor=blue&style=for-the-badge) ![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=for-the-badge&logo=github)
-
-
-[![kenpomR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR)<a href='http://saiemgilani.github.io/kenpomR'><img src='kenpomR.png' style="float:center;margin:20px" height="120" /></a>
-![Version-Number](https://img.shields.io/github/r-package/v/saiemgilani/kenpomR?label=kenpomR&logo=R&style=for-the-badge)![R-CMD-check](https://img.shields.io/github/workflow/status/saiemgilani/kenpomR/R-CMD-check?label=R-CMD-Check&logo=R&logoColor=blue&style=for-the-badge) ![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=for-the-badge&logo=github)
-
-[![wehoop Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=wehoop&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/wehoop)<a href='http://saiemgilani.github.io/wehoop'><img src='wehoop.png' style="float:center;margin:20px" height="120" /></a>
-
-![Version-Number](https://img.shields.io/github/r-package/v/saiemgilani/wehoop?label=wehoop&logo=R&style=for-the-badge)![R-CMD-check](https://img.shields.io/github/workflow/status/saiemgilani/wehoop/R-CMD-check?label=R-CMD-Check&logo=R&logoColor=blue&style=for-the-badge) ![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=for-the-badge&logo=github)
-
-[![cfbrecruitR Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbrecruitR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbrecruitR)<a href='http://saiemgilani.github.io/cfbrecruitR'><img src='cfbrecruitR.png' style="float:center;margin:20px" height="120" /></a>
-![Version-Number](https://img.shields.io/github/r-package/v/saiemgilani/cfbrecruitR?label=cfbrecruitR&logo=R&style=for-the-badge)![R-CMD-check](https://img.shields.io/github/workflow/status/saiemgilani/cfbrecruitR/R-CMD-check?label=R-CMD-Check&logo=R&logoColor=blue&style=for-the-badge) ![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=for-the-badge&logo=github)
-
-<details><summary>  archived </summary>
-
-[![cfbscrapR-archived Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR)<a href='http://saiemgilani.github.io/cfbscrapR'><img src='cfbscrapR.png' style="float:center;margin:20px" height="120" /></a>
-</details>
-
-## Data Repositories
-
-<details><summary>  CFB, CBB, and Play-by-Plays </summary>
-
-[![cfbfastR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbfastR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbfastR-data)<a href='https://github.com/saiemgilani/cfbfastR-data'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a>
-
-[![kenpomR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR-data)
-
-[![pbp-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=pbp-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/pbp-data)
-
-
-
-[![cfbscrapR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR-data)<a href='https://github.com/saiemgilani/cfbscrapR-data'><img src='cfbscrapR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/saiemgilani" target="blank"><img src="https://img.shields.io/twitter/follow/saiemgilani?logo=twitter&style=for-the-badge" alt="saiemgilani" /></a> </p>
-<p align="left">
-<a href="https://www.patreon.com/join/sportsdataverse?"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /><a> </p>
-<p align="left">
-<a href="https://twitter.com/saiemgilani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saiemgilani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saiem-gilani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saiem-gilani" height="30" width="40" /></a>
-<a href="https://kaggle.com/saiemgilani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="saiemgilani" height="30" width="40" /></a>
-</p>
-</details>
-
 ## **Languages and Tools:**
-<p align="left">
-
- 
- </p>
 
 ### **Machine Learning/Engineering**
 
@@ -107,7 +96,6 @@
 <p align="left"> <a href="https://github.com/saiemgilani"><img src="https://github-profile-trophy.vercel.app/?username=saiemgilani&theme=monokai" alt="saiemgilani" /></a> </p>
 
 [![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/saiemgilani/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8&hide_border=true&theme=monokai&layout=compact)](https://github.com/saiemgilani)
-
 
 
 <!--
