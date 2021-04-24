@@ -21,7 +21,9 @@ I have highlighted some of services we have been working on in this README. If y
 ## Node.js modules
 
 [![sportsdataverse Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sportsdataverse&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/sportsdataverse)
+
 [**Documentation**](https://saiemgilani.github.io/sportsdataverse/index.html)
+
 [![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://saiemgilani.github.io/sportsdataverse/index.html)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
 <a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse)</a>
 
