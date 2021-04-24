@@ -11,6 +11,7 @@ Honestly, so many sports data projects that should have only taken me a couple w
 They generally fall under the umbrella of the concept of the [SportsDataverse](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"). The general goal is to make sports data significantly more open and accessible, streamlining the process of gathering public data for research.
 
 I have highlighted some of services we have been working on in this README. If you would like to help us in this endeavor, please feel encouraged to reach out. Please also consider donating to our Patreon below so we can continue to produce and host useful public resources.
+
 <a href="https://twitter.com/saiemgilani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a> <a href="https://www.linkedin.com/in/saiem-gilani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a> <a href="https://github.com/saiemgilani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a> <a href="https://www.patreon.com/join/sportsdataverse?"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /><a>
 
 ##  [SportsDataverse.org](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization")
