@@ -19,7 +19,7 @@ I have highlighted some of services we have been working on in this README. If y
 
 <a href='https://gameonpaper.com/cfb/game/401013131'><img src='gameonpaper_screenshot.png' style="float:center;margin:20px" height="139" /></a>
 
-## Node.js modules
+## Node.js modules <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
 [![sportsdataverse Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sportsdataverse&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/sportsdataverse)
 
@@ -28,7 +28,7 @@ I have highlighted some of services we have been working on in this README. If y
 [![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://saiemgilani.github.io/sportsdataverse/index.html)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
 <a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse)</a>
 
-## R Packages
+## R Packages <a href="https://www.r-project.org/" target="_blank" alt="R"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
 
 <a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a> <a href='http://saiemgilani.github.io/kenpomR'><img src='kenpomR.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/wehoop'><img src='wehoop.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/cfbrecruitR'><img src='cfbrecruitR.png' style="float:center;margin:20px" height="120" /></a>
 
@@ -40,7 +40,13 @@ I have highlighted some of services we have been working on in this README. If y
 
 [![kenpomR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=kenpomR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/kenpomR-data)
 
+[![wehoop-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=wehoop-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/wehoop-data)
+
 [![pbp-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=pbp-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/pbp-data)
+
+Some other useful repositories:
+
+[![Sports Analytics Research Papers Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sports-research-papers&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/sports-research-papers)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/saiemgilani" target="blank"><img src="https://img.shields.io/twitter/follow/saiemgilani?logo=twitter&style=for-the-badge" alt="saiemgilani" /></a> </p>
@@ -51,6 +57,7 @@ I have highlighted some of services we have been working on in this README. If y
 
 [![cfbscrapR-archived Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR)<a href='http://saiemgilani.github.io/cfbscrapR'><img src='cfbscrapR.png' style="float:center;margin:20px" height="120" /></a>
 </details>
+
 
 ## My GitHub stats
 
