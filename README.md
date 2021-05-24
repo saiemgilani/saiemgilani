@@ -38,9 +38,9 @@ I have highlighted some of services we have been working on in this README. If y
 
 [![cfbfastR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbfastR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbfastR-data)<a href='https://github.com/saiemgilani/cfbfastR-data'><img src='cfbfastR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
 
-[![hoopR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=hoopR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/hoopR-data)
+[![hoopR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=hoopR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/hoopR-data)<a href='https://github.com/saiemgilani/hoopR-data'><img src='hoopR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
 
-[![wehoop-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=wehoop-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/wehoop-data)
+[![wehoop-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=wehoop-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/wehoop-data)<a href='https://github.com/saiemgilani/wehoop-data'><img src='wehoop_data_repo.png' style="float:center;margin:20px" height="120" /></a>
 
 [![pbp-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=pbp-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/pbp-data)
 
