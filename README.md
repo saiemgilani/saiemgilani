@@ -4,8 +4,11 @@ I'm working on:
 Honestly, so many sports data projects that should have only taken me a couple weeks.
   - [sportsdataverse node.js source](https://github.com/saiemgilani/sportsdataverse) ([Docs](https://saiemgilani.github.io/sportsdataverse))
   - [cfbfastR source](https://github.com/saiemgilani/cfbfastR) ([Docs](https://saiemgilani.github.io/cfbfastR), [Data](https://github.com/saiemgilani/cfbfastR-data))
-  - [hoopR source](https://github.com/saiemgilani/hoopR) ([Docs](https://saiemgilani.github.io/hoopR), [Data](https://github.com/saiemgilani/kenpomR-data))
+  - [cfbfastR-py source](https://github.com/saiemgilani/cfbfastR-py) ([PyPI](https://pypi.org/project/cfbfastR-py/), [Data](https://github.com/saiemgilani/cfbfastR-data))
+  - [hoopR source](https://github.com/saiemgilani/hoopR) ([Docs](https://saiemgilani.github.io/hoopR), [Data](https://github.com/saiemgilani/hoopR-data))
+  - [hoopR-py source](https://github.com/saiemgilani/hoopR-py) ([PyPI](https://pypi.org/project/hoopR-py/), [Data](https://github.com/saiemgilani/hoopR-data))
   - [wehoop source](https://github.com/saiemgilani/wehoop) ([Docs](https://saiemgilani.github.io/wehoop), [Data](https://github.com/saiemgilani/wehoop-data))
+  - [wehoop-py source](https://github.com/saiemgilani/wehoop-py) ([PyPI](https://pypi.org/project/wehoop-py/), [Data](https://github.com/saiemgilani/wehoop-data))
   - [cfbrecruitR source](https://github.com/saiemgilani/cfbrecruitR) ([Docs](https://saiemgilani.github.io/cfbrecruitR))
 
 They generally fall under the umbrella of the concept of the [SportsDataverse](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"). The general goal is to make sports data significantly more open and accessible, streamlining the process of gathering public data for research.
@@ -28,6 +31,8 @@ I have highlighted some of services we have been working on in this README. If y
 [![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://saiemgilani.github.io/sportsdataverse/index.html)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
 <a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse)</a>
 
+## Python Packages <a href="https://pypi.org/user/saiemgilani/" alt="Saiem's Python Packages" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href='https://pypi.org/project/cfbfastR-py/'><img src='cfbfastR-py-logo.png' style="float:center;margin:20px" height="120" /></a><a href='https://pypi.org/project/hoopR-py/'><img src='hoopR-py-logo.png' style="float:center;margin:20px" height="120" /></a><a href='https://pypi.org/project/wehoop-py/'><img src='wehoop-py-logo.png' style="float:center;margin:20px" height="120" /></a>
 ## R Packages <a href="https://www.r-project.org/" target="_blank" alt="R"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
 
 <a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/hoopR'><img src='hoopR-logo.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/wehoop'><img src='wehoop.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/cfbrecruitR'><img src='cfbrecruitR.png' style="float:center;margin:20px" height="120" /></a>
