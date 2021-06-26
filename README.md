@@ -4,6 +4,7 @@ I'm working on:
 Honestly, so many sports data projects that should have only taken me a couple weeks.
   - [sportsdataverse node.js source](https://github.com/saiemgilani/sportsdataverse) ([Docs](https://saiemgilani.github.io/sportsdataverse))
   - [cfbfastR source](https://github.com/saiemgilani/cfbfastR) ([Docs](https://saiemgilani.github.io/cfbfastR), [Data](https://github.com/saiemgilani/cfbfastR-data))
+  - [cfbfastR-py source](https://github.com/saiemgilani/cfbfastR-py) ([PyPI](https://pypi.org/project/cfbfastR-py/), [Data](https://github.com/saiemgilani/cfbfastR-data))
   - [hoopR source](https://github.com/saiemgilani/hoopR) ([Docs](https://saiemgilani.github.io/hoopR), [Data](https://github.com/saiemgilani/kenpomR-data))
   - [wehoop source](https://github.com/saiemgilani/wehoop) ([Docs](https://saiemgilani.github.io/wehoop), [Data](https://github.com/saiemgilani/wehoop-data))
   - [cfbrecruitR source](https://github.com/saiemgilani/cfbrecruitR) ([Docs](https://saiemgilani.github.io/cfbrecruitR))
