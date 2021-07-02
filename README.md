@@ -4,11 +4,11 @@ I'm working on:
 Honestly, so many sports data projects that should have only taken me a couple weeks.
   - [sportsdataverse node.js source](https://github.com/saiemgilani/sportsdataverse) ([Docs](https://saiemgilani.github.io/sportsdataverse))
   - [cfbfastR source](https://github.com/saiemgilani/cfbfastR) ([Docs](https://saiemgilani.github.io/cfbfastR), [Data](https://github.com/saiemgilani/cfbfastR-data))
-  - [cfbfastR-py source](https://github.com/saiemgilani/cfbfastR-py) ([PyPI](https://pypi.org/project/cfbfastR-py/), [Data](https://github.com/saiemgilani/cfbfastR-data))
+  - [cfbfastR-py source](https://github.com/saiemgilani/cfbfastR-py) ([Docs](https://cfbfastR-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/cfbfastR-py/), [Data](https://github.com/saiemgilani/cfbfastR-data))
   - [hoopR source](https://github.com/saiemgilani/hoopR) ([Docs](https://saiemgilani.github.io/hoopR), [Data](https://github.com/saiemgilani/hoopR-data))
-  - [hoopR-py source](https://github.com/saiemgilani/hoopR-py) ([PyPI](https://pypi.org/project/hoopR-py/), [Data](https://github.com/saiemgilani/hoopR-data))
+  - [hoopR-py source](https://github.com/saiemgilani/hoopR-py) ([Docs](https://hoopR-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/hoopR-py/), [Data](https://github.com/saiemgilani/hoopR-data))
   - [wehoop source](https://github.com/saiemgilani/wehoop) ([Docs](https://saiemgilani.github.io/wehoop), [Data](https://github.com/saiemgilani/wehoop-data))
-  - [wehoop-py source](https://github.com/saiemgilani/wehoop-py) ([PyPI](https://pypi.org/project/wehoop-py/), [Data](https://github.com/saiemgilani/wehoop-data))
+  - [wehoop-py source](https://github.com/saiemgilani/wehoop-py) ([Docs](https://wehoop-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/wehoop-py/), [Data](https://github.com/saiemgilani/wehoop-data))
   - [cfbrecruitR source](https://github.com/saiemgilani/cfbrecruitR) ([Docs](https://saiemgilani.github.io/cfbrecruitR))
 
 They generally fall under the umbrella of the concept of the [SportsDataverse](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"). The general goal is to make sports data significantly more open and accessible, streamlining the process of gathering public data for research.
@@ -22,7 +22,7 @@ I have highlighted some of services we have been working on in this README. If y
 
 <a href='https://gameonpaper.com/cfb/game/401013131'><img src='gameonpaper_screenshot.png' style="float:center;margin:20px" height="139" /></a>
 
-## Node.js modules <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+## Node.js modules <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="50"/> </a> 
 
 [![sportsdataverse Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sportsdataverse&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/sportsdataverse)
 
