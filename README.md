@@ -9,7 +9,7 @@ Honestly, so many sports data projects that should have only taken me a couple w
   - [hoopR-py source](https://github.com/saiemgilani/hoopR-py) ([Docs](https://hoopR-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/hoopR-py/), [Data](https://github.com/saiemgilani/hoopR-data))
   - [wehoop source](https://github.com/saiemgilani/wehoop) ([Docs](https://saiemgilani.github.io/wehoop), [Data](https://github.com/saiemgilani/wehoop-data))
   - [wehoop-py source](https://github.com/saiemgilani/wehoop-py) ([Docs](https://wehoop-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/wehoop-py/), [Data](https://github.com/saiemgilani/wehoop-data))
-  - [cfbrecruitR source](https://github.com/saiemgilani/cfbrecruitR) ([Docs](https://saiemgilani.github.io/cfbrecruitR))
+  - [recruitR source](https://github.com/saiemgilani/recruitR) ([Docs](https://saiemgilani.github.io/recruitR))
 
 They generally fall under the umbrella of the concept of the [SportsDataverse](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"). The general goal is to make sports data significantly more open and accessible, streamlining the process of gathering public data for research.
 
@@ -35,7 +35,7 @@ I have highlighted some of services we have been working on in this README. If y
 <a href='https://pypi.org/project/cfbfastR-py/'><img src='cfbfastR-py-logo.png' style="float:center;margin:20px" height="120" /></a><a href='https://pypi.org/project/hoopR-py/'><img src='hoopR-py-logo.png' style="float:center;margin:20px" height="120" /></a><a href='https://pypi.org/project/wehoop-py/'><img src='wehoop-py-logo.png' style="float:center;margin:20px" height="120" /></a>
 ## R Packages <a href="https://www.r-project.org/" target="_blank" alt="R"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
 
-<a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/hoopR'><img src='hoopR-logo.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/wehoop'><img src='wehoop.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/cfbrecruitR'><img src='cfbrecruitR.png' style="float:center;margin:20px" height="120" /></a>
+<a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/hoopR'><img src='hoopR-logo.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/wehoop'><img src='wehoop.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/recruitR'><img src='cfbrecruitR.png' style="float:center;margin:20px" height="120" /></a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cfbfastR?color=blue&label=%40cfbfastR&logo=twitter&style=for-the-badge)](https://twitter.com/cfbfastR)
 
