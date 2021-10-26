@@ -3,13 +3,20 @@ I'm working on:
 
 Honestly, so many sports data projects that should have only taken me a couple weeks.
   - [sportsdataverse node.js source](https://github.com/saiemgilani/sportsdataverse) ([Docs](https://saiemgilani.github.io/sportsdataverse))
+  - [sportsdataverse-py source](https://github.com/saiemgilani/sportsdataverse-py) ([Docs](https://py.sportsdataverse.org/), [PyPI](https://pypi.org/project/sportsdataverse/))
   - [cfbfastR source](https://github.com/saiemgilani/cfbfastR) ([Docs](https://saiemgilani.github.io/cfbfastR), [Data](https://github.com/saiemgilani/cfbfastR-data))
-  - [cfbfastR-py source](https://github.com/saiemgilani/cfbfastR-py) ([Docs](https://cfbfastR-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/cfbfastR-py/), [Data](https://github.com/saiemgilani/cfbfastR-data))
   - [hoopR source](https://github.com/saiemgilani/hoopR) ([Docs](https://saiemgilani.github.io/hoopR), [Data](https://github.com/saiemgilani/hoopR-data))
-  - [hoopR-py source](https://github.com/saiemgilani/hoopR-py) ([Docs](https://hoopR-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/hoopR-py/), [Data](https://github.com/saiemgilani/hoopR-data))
   - [wehoop source](https://github.com/saiemgilani/wehoop) ([Docs](https://saiemgilani.github.io/wehoop), [Data](https://github.com/saiemgilani/wehoop-data))
-  - [wehoop-py source](https://github.com/saiemgilani/wehoop-py) ([Docs](https://wehoop-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/wehoop-py/), [Data](https://github.com/saiemgilani/wehoop-data))
   - [recruitR source](https://github.com/saiemgilani/recruitR) ([Docs](https://saiemgilani.github.io/recruitR))
+
+  Projects I contribute to: 
+  - [baseballr source](https://github.com/BillPetti/baseballr) ([Docs](https://BillPetti.github.io/baseballr/))
+  - [whockeyR source](https://github.com/BenHowell71/whockeyR) ([Docs](https://BenHowell71.github.io/whockeyR/))
+
+  Soon to be superseded:
+  - [cfbfastR-py source](https://github.com/saiemgilani/cfbfastR-py) ([Docs](https://cfbfastR-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/cfbfastR-py/), [Data](https://github.com/saiemgilani/cfbfastR-data))
+  - [hoopR-py source](https://github.com/saiemgilani/hoopR-py) ([Docs](https://hoopR-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/hoopR-py/), [Data](https://github.com/saiemgilani/hoopR-data))
+  - [wehoop-py source](https://github.com/saiemgilani/wehoop-py) ([Docs](https://wehoop-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/wehoop-py/), [Data](https://github.com/saiemgilani/wehoop-data))
 
 They generally fall under the umbrella of the concept of the [SportsDataverse](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"). The general goal is to make sports data significantly more open and accessible, streamlining the process of gathering public data for research.
 
