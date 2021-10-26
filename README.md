@@ -2,12 +2,15 @@
 I'm working on:
 
 Honestly, so many sports data projects that should have only taken me a couple weeks.
-  - [sportsdataverse node.js source](https://github.com/saiemgilani/sportsdataverse) ([Docs](https://saiemgilani.github.io/sportsdataverse))
+  - [sportsdataverse node.js source](https://github.com/saiemgilani/sportsdataverse) ([Docs](https://saiemgilani.github.io/sportsdataverse/))
   - [sportsdataverse-py source](https://github.com/saiemgilani/sportsdataverse-py) ([Docs](https://py.sportsdataverse.org/), [PyPI](https://pypi.org/project/sportsdataverse/))
-  - [cfbfastR source](https://github.com/saiemgilani/cfbfastR) ([Docs](https://saiemgilani.github.io/cfbfastR), [Data](https://github.com/saiemgilani/cfbfastR-data))
-  - [hoopR source](https://github.com/saiemgilani/hoopR) ([Docs](https://saiemgilani.github.io/hoopR), [Data](https://github.com/saiemgilani/hoopR-data))
-  - [wehoop source](https://github.com/saiemgilani/wehoop) ([Docs](https://saiemgilani.github.io/wehoop), [Data](https://github.com/saiemgilani/wehoop-data))
-  - [recruitR source](https://github.com/saiemgilani/recruitR) ([Docs](https://saiemgilani.github.io/recruitR))
+  - [cfbfastR source](https://github.com/saiemgilani/cfbfastR) ([Docs](https://saiemgilani.github.io/cfbfastR/), [Data](https://github.com/saiemgilani/cfbfastR-data))
+  - [hoopR source](https://github.com/saiemgilani/hoopR) ([Docs](https://saiemgilani.github.io/hoopR/), [Data](https://github.com/saiemgilani/hoopR-data))
+  - [wehoop source](https://github.com/saiemgilani/wehoop) ([Docs](https://saiemgilani.github.io/wehoop/), [Data](https://github.com/saiemgilani/wehoop-data))
+  - [recruitR source](https://github.com/saiemgilani/recruitR) ([Docs](https://saiemgilani.github.io/recruitR/))
+  - [powerplay source](https://github.com/saiemgilani/powerplay) ([Docs](https://saiemgilani.github.io/powerplay/))
+  - [@sportsdataverse/nhl](https://github.com/saiemgilani/sportsdataverse-nhl) 
+
 
   Projects I contribute to: 
   - [baseballr source](https://github.com/BillPetti/baseballr) ([Docs](https://BillPetti.github.io/baseballr/))
