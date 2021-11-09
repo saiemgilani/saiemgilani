@@ -1,4 +1,10 @@
 # Hi, I'm Saiem! ML Engineer, CV
+I will be giving a presentation on the projects below at the [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/2021/). The paper I wrote for the conference was selected as the winner for the Data and Software contribution, Open Track for their reproducible research competition. 
+The slides for my presentation can be found here:
+[Slides](https://saiemgilani.github.io/The_SportsDataverse_Initiative/)
+[Repository](https://github.com/saiemgilani/The_SportsDataverse_Initiative)
+[Paper](https://www.stat.cmu.edu/cmsac/conference/2021/assets/pdf/SaiemGilani.pdf)
+
 I'm working on:
 
 Honestly, so many sports data projects that should have only taken me a couple weeks.
