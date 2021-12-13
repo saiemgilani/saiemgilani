@@ -15,6 +15,7 @@ Honestly, so many sports data projects that should have only taken me a couple w
   - [hoopR source](https://github.com/saiemgilani/hoopR) ([Docs](https://saiemgilani.github.io/hoopR/), [Data](https://github.com/saiemgilani/hoopR-data))
   - [wehoop source](https://github.com/saiemgilani/wehoop) ([Docs](https://saiemgilani.github.io/wehoop/), [Data](https://github.com/saiemgilani/wehoop-data))
   - [recruitR source](https://github.com/saiemgilani/recruitR) ([Docs](https://saiemgilani.github.io/recruitR/))
+  - [usfootballR source](https://github.com/saiemgilani/usfootballR) ([Docs](https://saiemgilani.github.io/usfootballR/))
   - [powerplay source](https://github.com/saiemgilani/powerplay) ([Docs](https://saiemgilani.github.io/powerplay/))
   - [@sportsdataverse/nhl](https://github.com/saiemgilani/sportsdataverse-nhl) 
 
@@ -22,6 +23,7 @@ Honestly, so many sports data projects that should have only taken me a couple w
   Projects I contribute to: 
   - [baseballr source](https://github.com/BillPetti/baseballr) ([Docs](https://BillPetti.github.io/baseballr/))
   - [fastRhockey source](https://github.com/BenHowell71/fastRhockey) ([Docs](https://BenHowell71.github.io/fastRhockey/))
+  - [ncaascrapR source](https://github.com/ehess/ncaascrapR) ([Docs](https://ehess.github.io/ncaascrapR/))
 
   
 They generally fall under the umbrella of the concept of the [SportsDataverse](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"). The general goal is to make sports data significantly more open and accessible, streamlining the process of gathering public data for research.
@@ -45,10 +47,10 @@ I have highlighted some of services we have been working on in this README. If y
 <a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse)</a>
 
 ## Python Packages <a href="https://pypi.org/user/saiemgilani/" alt="Saiem's Python Packages" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href='https://pypi.org/project/cfbfastR-py/'><img src='cfbfastR-py-logo.png' style="float:center;margin:20px" height="120" /></a><a href='https://pypi.org/project/hoopR-py/'><img src='hoopR-py-logo.png' style="float:center;margin:20px" height="120" /></a><a href='https://pypi.org/project/wehoop-py/'><img src='wehoop-py-logo.png' style="float:center;margin:20px" height="120" /></a>
+<a href='https://pypi.org/project/sportsdataverse/'><img src='sdv-py-logo.png' style="float:center;margin:20px" height="120" /></a>
 ## R Packages <a href="https://www.r-project.org/" target="_blank" alt="R"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
 
-<a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/hoopR'><img src='hoopR-logo.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/wehoop'><img src='wehoop.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/recruitR'><img src='recruitR.png' style="float:center;margin:20px" height="120" /></a>
+<a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/hoopR'><img src='hoopR-logo.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/wehoop'><img src='wehoop.png' style="float:center;margin:20px" height="120" /></a><a href='http://benhowell71.github.io/fastRhockey'><img src='fastRhockey-logo.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/recruitR'><img src='recruitR.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/usfootballR'><img src='usfootballR-logo.png' style="float:center;margin:20px" height="120" /></a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cfbfastR?color=blue&label=%40cfbfastR&logo=twitter&style=for-the-badge)](https://twitter.com/cfbfastR)
 
