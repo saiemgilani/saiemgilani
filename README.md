@@ -21,13 +21,9 @@ Honestly, so many sports data projects that should have only taken me a couple w
 
   Projects I contribute to: 
   - [baseballr source](https://github.com/BillPetti/baseballr) ([Docs](https://BillPetti.github.io/baseballr/))
-  - [whockeyR source](https://github.com/BenHowell71/whockeyR) ([Docs](https://BenHowell71.github.io/whockeyR/))
+  - [fastRhockey source](https://github.com/BenHowell71/fastRhockey) ([Docs](https://BenHowell71.github.io/fastRhockey/))
 
-  Soon to be superseded:
-  - [cfbfastR-py source](https://github.com/saiemgilani/cfbfastR-py) ([Docs](https://cfbfastR-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/cfbfastR-py/), [Data](https://github.com/saiemgilani/cfbfastR-data))
-  - [hoopR-py source](https://github.com/saiemgilani/hoopR-py) ([Docs](https://hoopR-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/hoopR-py/), [Data](https://github.com/saiemgilani/hoopR-data))
-  - [wehoop-py source](https://github.com/saiemgilani/wehoop-py) ([Docs](https://wehoop-py.sportsdataverse.org/), [PyPI](https://pypi.org/project/wehoop-py/), [Data](https://github.com/saiemgilani/wehoop-data))
-
+  
 They generally fall under the umbrella of the concept of the [SportsDataverse](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"). The general goal is to make sports data significantly more open and accessible, streamlining the process of gathering public data for research.
 
 I have highlighted some of services we have been working on in this README. If you would like to help us in this endeavor, please feel encouraged to reach out. Please also consider donating to our Patreon below so we can continue to produce and host useful public resources.
