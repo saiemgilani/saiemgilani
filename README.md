@@ -16,13 +16,12 @@ Honestly, so many sports data projects that should have only taken me a couple w
   - [wehoop source](https://github.com/saiemgilani/wehoop) ([Docs](https://saiemgilani.github.io/wehoop/), [Data](https://github.com/saiemgilani/wehoop-data))
   - [recruitR source](https://github.com/saiemgilani/recruitR) ([Docs](https://saiemgilani.github.io/recruitR/))
   - [usfootballR source](https://github.com/saiemgilani/usfootballR) ([Docs](https://saiemgilani.github.io/usfootballR/))
-  - [powerplay source](https://github.com/saiemgilani/powerplay) ([Docs](https://saiemgilani.github.io/powerplay/))
   - [@sportsdataverse/nhl](https://github.com/saiemgilani/sportsdataverse-nhl) 
 
 
   Projects I contribute to: 
-  - [baseballr source](https://github.com/BillPetti/baseballr) ([Docs](https://BillPetti.github.io/baseballr/))
-  - [fastRhockey source](https://github.com/BenHowell71/fastRhockey) ([Docs](https://BenHowell71.github.io/fastRhockey/))
+  - [baseballr source](https://github.com/billpetti/baseballr) ([Docs](https://billpetti.github.io/baseballr/))
+  - [fastRhockey source](https://github.com/benhowell71/fastRhockey) ([Docs](https://benhowell71.github.io/fastRhockey/))
   - [ncaascrapR source](https://github.com/ehess/ncaascrapR) ([Docs](https://ehess.github.io/ncaascrapR/))
 
   
