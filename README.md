@@ -49,7 +49,7 @@ I have highlighted some of services we have been working on in this README. If y
 
 <a href='https://pypi.org/project/sportsdataverse/'><img src='sdv-py-logo.png' style="float:center;margin:20px" height="120" /></a>
 
-<a href='https://pypi.org/project/sportsdataverse/'><img alt="PyPI - Down
+[![PyPI](https://img.shields.io/pypi/v/sportsdataverse?label=sportsdataverse&logo=python&style=for-the-badge)](https://pypi.org/project/sportsdataverse/) <a href='https://pypi.org/project/sportsdataverse/'><img alt="PyPI - Down
 loads" src="https://img.shields.io/pypi/dm/sportsdataverse?style=for-the-badge"></a>
 ## R Packages <a href="https://www.r-project.org/" target="_blank" alt="R"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
 
