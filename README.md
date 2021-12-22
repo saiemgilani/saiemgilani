@@ -40,10 +40,12 @@ I have highlighted some of services we have been working on in this README. If y
 
 [![sportsdataverse Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sportsdataverse&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/sportsdataverse)
 
-[**Documentation**](https://saiemgilani.github.io/sportsdataverse/index.html)
+<a href='https://www.npmjs.com/package/sportsdataverse'><img src='sdv-js.png' style="float:center;margin:20px" height="120" /></a>
 
 [![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://saiemgilani.github.io/sportsdataverse/index.html)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
 <a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse)</a>
+
+[**Documentation**](https://js.sportsdataverse.org/)
 
 ## Python Packages <a href="https://pypi.org/user/saiemgilani/" alt="Saiem's Python Packages" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
@@ -51,6 +53,9 @@ I have highlighted some of services we have been working on in this README. If y
 
 [![PyPI](https://img.shields.io/pypi/v/sportsdataverse?label=sportsdataverse&logo=python&style=for-the-badge)](https://pypi.org/project/sportsdataverse/) <a href='https://pypi.org/project/sportsdataverse/'><img alt="PyPI - Down
 loads" src="https://img.shields.io/pypi/dm/sportsdataverse?style=for-the-badge"></a>
+
+[**Documentation**](https://py.sportsdataverse.org/)
+
 ## R Packages <a href="https://www.r-project.org/" target="_blank" alt="R"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
 
 <a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/hoopR'><img src='hoopR-logo.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/wehoop'><img src='wehoop.png' style="float:center;margin:20px" height="120" /></a><a href='http://benhowell71.github.io/fastRhockey'><img src='fastRhockey-logo.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/recruitR'><img src='recruitR.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/usfootballR'><img src='usfootballR-logo.png' style="float:center;margin:20px" height="120" /></a>
