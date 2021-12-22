@@ -27,11 +27,15 @@ Honestly, so many sports data projects that should have only taken me a couple w
   
 They generally fall under the umbrella of the concept of the [SportsDataverse](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"). The general goal is to make sports data significantly more open and accessible, streamlining the process of gathering public data for research.
 
-I have highlighted some of services we have been working on in this README. If you would like to help us in this endeavor, please feel encouraged to reach out. Please also consider donating to our Patreon below so we can continue to produce and host useful public resources.
+I have highlighted some of services we have been working on in this README. If you would like to help us in this endeavor, please feel encouraged to reach out. 
 
-<a href="https://twitter.com/saiemgilani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a> <a href="https://www.linkedin.com/in/saiem-gilani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a> <a href="https://github.com/saiemgilani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a> <a href="https://www.patreon.com/join/sportsdataverse?"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /><a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/sportsdataverse?color=blue&label=%40sportsdataverse&logo=twitter&style=for-the-badge)](https://twitter.com/sportsdataverse)
+
+<a href="https://twitter.com/saiemgilani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a> <a href="https://www.linkedin.com/in/saiem-gilani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a> <a href="https://github.com/saiemgilani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a> 
+
 
 ##  [SportsDataverse.org](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization")
+[![Twitter Follow](https://img.shields.io/twitter/follow/sportsdataverse?color=blue&label=%40sportsdataverse&logo=twitter&style=for-the-badge)](https://twitter.com/sportsdataverse)
 ##  [GameOnPaper.com](https://gameonpaper.com/cfb "Game on Paper: Live analytics for the modern age")
 
 <a href='https://gameonpaper.com/cfb/game/401013131'><img src='gameonpaper_screenshot.png' style="float:center;margin:20px" height="139" /></a>
@@ -42,7 +46,7 @@ I have highlighted some of services we have been working on in this README. If y
 
 <a href='https://www.npmjs.com/package/sportsdataverse'><img src='sdv-js.png' style="float:center;margin:20px" height="120" /></a>
 
-[![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://saiemgilani.github.io/sportsdataverse/index.html)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
+[![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://js.sportsdataverse.org/)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
 <a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse)</a>
 
 [**Documentation**](https://js.sportsdataverse.org/)
@@ -93,9 +97,10 @@ Some other useful repositories:
 
 <p align="left"> <a href="https://github.com/saiemgilani"><img src="https://github-profile-trophy.vercel.app/?username=saiemgilani&theme=monokai" alt="saiemgilani" /></a> </p>
 
-[![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/saiemgilani/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8&hide_border=true&theme=monokai)](https://github.com/saiemgilani)
+[![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/saiemgilani/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8&hide_border=true&theme=monokai)](https://github.com/saiemgilani)
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=saiemgilani.saiemgilani)](https://github.com/saiemgilani)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=saiemgilani.saiemgilani&style=for-the-badge)](https://github.com/saiemgilani)
 
 ## **My preferred languages and tools:**
 
