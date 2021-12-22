@@ -88,7 +88,7 @@ Some other useful repositories:
 
 <p align="left"> <a href="https://github.com/saiemgilani"><img src="https://github-profile-trophy.vercel.app/?username=saiemgilani&theme=monokai" alt="saiemgilani" /></a> </p>
 
-[![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/saiemgilani/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8&hide_border=true&theme=monokai&layout=compact)](https://github.com/saiemgilani)
+[![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/saiemgilani/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8&hide_border=true&theme=monokai)](https://github.com/saiemgilani)
 
 
 ## **My preferred languages and tools:**
