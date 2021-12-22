@@ -9,7 +9,7 @@ The conference materials can be found here:
 I'm working on:
 
 Honestly, so many sports data projects that should have only taken me a couple weeks.
-  - [sportsdataverse node.js source](https://github.com/saiemgilani/sportsdataverse) ([Docs](https://saiemgilani.github.io/sportsdataverse/))
+  - [sportsdataverse node.js source](https://github.com/saiemgilani/sportsdataverse) ([Docs](https://js.sportsdataverse.org/))
   - [sportsdataverse-py source](https://github.com/saiemgilani/sportsdataverse-py) ([Docs](https://py.sportsdataverse.org/), [PyPI](https://pypi.org/project/sportsdataverse/))
   - [cfbfastR source](https://github.com/saiemgilani/cfbfastR) ([Docs](https://saiemgilani.github.io/cfbfastR/), [Data](https://github.com/saiemgilani/cfbfastR-data))
   - [hoopR source](https://github.com/saiemgilani/hoopR) ([Docs](https://saiemgilani.github.io/hoopR/), [Data](https://github.com/saiemgilani/hoopR-data))
