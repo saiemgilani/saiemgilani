@@ -9,19 +9,19 @@ The conference materials can be found here:
 I'm working on:
 
 Honestly, so many sports data projects that should have only taken me a couple weeks.
-  - [sportsdataverse node.js source](https://github.com/saiemgilani/sportsdataverse) ([Docs](https://js.sportsdataverse.org/))
-  - [sportsdataverse-py source](https://github.com/saiemgilani/sportsdataverse-py) ([Docs](https://py.sportsdataverse.org/), [PyPI](https://pypi.org/project/sportsdataverse/))
-  - [cfbfastR source](https://github.com/saiemgilani/cfbfastR) ([Docs](https://saiemgilani.github.io/cfbfastR/), [Data](https://github.com/saiemgilani/cfbfastR-data))
-  - [hoopR source](https://github.com/saiemgilani/hoopR) ([Docs](https://saiemgilani.github.io/hoopR/), [Data](https://github.com/saiemgilani/hoopR-data))
-  - [wehoop source](https://github.com/saiemgilani/wehoop) ([Docs](https://saiemgilani.github.io/wehoop/), [Data](https://github.com/saiemgilani/wehoop-data))
-  - [recruitR source](https://github.com/saiemgilani/recruitR) ([Docs](https://saiemgilani.github.io/recruitR/))
-  - [usfootballR source](https://github.com/saiemgilani/usfootballR) ([Docs](https://saiemgilani.github.io/usfootballR/))
+  - [sportsdataverse node.js source](https://github.com/sportsdataverse/sportsdataverse-js) ([Docs](https://js.sportsdataverse.org/))
+  - [sportsdataverse-py source](https://github.com/sportsdataverse/sportsdataverse-py) ([Docs](https://py.sportsdataverse.org/), [PyPI](https://pypi.org/project/sportsdataverse/))
+  - [cfbfastR source](https://github.com/sportsdataverse/cfbfastR) ([Docs](https://cfbfastR.sportsdataverse.org/), [Data](https://github.com/sportsdataverse/cfbfastR-data))
+  - [hoopR source](https://github.com/sportsdataverse/hoopR) ([Docs](https://hoopR.sportsdataverse.org/), [Data](https://github.com/sportsdataverse/hoopR-data))
+  - [wehoop source](https://github.com/sportsdataverse/wehoop) ([Docs](https://wehoop.sportsdataverse.org/), [Data](https://github.com/sportsdataverse/wehoop-data))
+  - [recruitR source](https://github.com/sportsdataverse/recruitR) ([Docs](https://recruitR.sportsdataverse.org/))
+  - [usfootballR source](https://github.com/sportsdataverse/usfootballR) ([Docs](https://usfootballR.sportsdataverse.org/))
   - [@sportsdataverse/nhl](https://github.com/saiemgilani/sportsdataverse-nhl) 
 
 
   Projects I contribute to: 
   - [baseballr source](https://github.com/billpetti/baseballr) ([Docs](https://billpetti.github.io/baseballr/))
-  - [fastRhockey source](https://github.com/benhowell71/fastRhockey) ([Docs](https://benhowell71.github.io/fastRhockey/))
+  - [fastRhockey source](https://github.com/sportsdataverse/fastRhockey) ([Docs](https://fastRhockey.sportsdataverse.org/))
   - [ncaascrapR source](https://github.com/ehess/ncaascrapR) ([Docs](https://ehess.github.io/ncaascrapR/))
 
   
@@ -42,7 +42,7 @@ I have highlighted some of services we have been working on in this README. If y
 
 ## Node.js modules <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="50"/> </a> 
 
-[![sportsdataverse Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sportsdataverse&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/sportsdataverse)
+[![sportsdataverse Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sportsdataverse&hide_border=true&show_icons=true&theme=monokai)](https://github.com/sportsdataverse/sportsdataverse-js)
 
 <a href='https://www.npmjs.com/package/sportsdataverse'><img src='sdv-js.png' style="float:center;margin:20px" height="120" /></a>
 
@@ -68,11 +68,11 @@ loads" src="https://img.shields.io/pypi/dm/sportsdataverse?style=for-the-badge">
 
 ## Data Repositories
 
-[![cfbfastR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbfastR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbfastR-data)<a href='https://github.com/saiemgilani/cfbfastR-data'><img src='cfbfastR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
+[![cfbfastR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=sportsdataverse&repo=cfbfastR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/sportsdataverse/cfbfastR-data)<a href='https://github.com/sportsdataverse/cfbfastR-data'><img src='cfbfastR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
 
-[![hoopR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=hoopR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/hoopR-data)<a href='https://github.com/saiemgilani/hoopR-data'><img src='hoopR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
+[![hoopR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=sportsdataverse&repo=hoopR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/sportsdataverse/hoopR-data)<a href='https://github.com/sportsdataverse/hoopR-data'><img src='hoopR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
 
-[![wehoop-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=wehoop-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/wehoop-data)<a href='https://github.com/saiemgilani/wehoop-data'><img src='wehoop_data_repo.png' style="float:center;margin:20px" height="120" /></a>
+[![wehoop-data Card](https://github-readme-stats.vercel.app/api/pin/?username=sportsdataverse&repo=wehoop-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/sportsdataverse/wehoop-data)<a href='https://github.com/sportsdataverse/wehoop-data'><img src='wehoop_data_repo.png' style="float:center;margin:20px" height="120" /></a>
 
 [![pbp-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=pbp-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/pbp-data)
 
