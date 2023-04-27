@@ -43,7 +43,7 @@ I have highlighted some of services we have been working on in this README. If y
 
 ## Node.js modules
 
-<a href='https://www.npmjs.com/package/sportsdataverse'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/sdv-js.png'  width="120" height="120" /></a>
+<a href='https://www.npmjs.com/package/sportsdataverse'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/sdv-js.png'  width="103.6" height="120" /></a>
 
 [![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://js.sportsdataverse.org/)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
 <a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse) </a>
@@ -52,7 +52,7 @@ I have highlighted some of services we have been working on in this README. If y
 
 ## Python Packages
 
-<a href='https://pypi.org/project/sportsdataverse/'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/sdv-py-logo.png' width="120" height="120" /></a>
+<a href='https://pypi.org/project/sportsdataverse/'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/sdv-py-logo.png' width="103.6" height="120" /></a>
 
 [![PyPI](https://img.shields.io/pypi/v/sportsdataverse?label=sportsdataverse&logo=python&style=for-the-badge)](https://pypi.org/project/sportsdataverse/) <a href='https://pypi.org/project/sportsdataverse/'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/sportsdataverse?style=for-the-badge" /></a>
 
