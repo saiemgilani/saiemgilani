@@ -60,12 +60,13 @@ I have highlighted some of services we have been working on in this README. If y
 
 ## R Packages
 
-<a href='http://cfbfastR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/cfbfastR.png' width="120" height="120" /></a>
-<a href='http://hoopR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/hoopR-logo.png' width="120" height="120" /></a>
-<a href='http://wehoop.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/wehoop.png' width="120" height="120" /></a>
-<a href='http://fastRhockey.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/fastRhockey-logo.png' width="120" height="120" /></a>
-<a href='http://recruitR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/recruitR.png' width="120" height="120" /></a>
-<a href='http://usfootballR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/usfootballR-logo.png' width="120" height="120" /></a>
+<a href='http://cfbfastR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/cfbfastR.png' width="103.6" height="120" /></a>
+<a href='http://hoopR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/hoopR-logo.png' width="103.6" height="120" /></a>
+<a href='http://wehoop.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/wehoop.png' width="103.6" height="120" /></a>
+<a href='http://fastRhockey.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/fastRhockey-logo.png' width="103.6" height="120" /></a>
+<a href='http://recruitR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/recruitR.png' width="103.6" height="120" /></a>
+<a href='http://usfootballR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/usfootballR-logo.png' width="103.6" height="120" /></a>
+
 
 
 ## Data Repositories
