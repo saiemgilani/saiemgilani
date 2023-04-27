@@ -16,55 +16,57 @@ Honestly, so many sports data projects that should have only taken me a couple w
   - [wehoop source](https://github.com/sportsdataverse/wehoop) ([Docs](https://wehoop.sportsdataverse.org/), [Data](https://github.com/sportsdataverse/wehoop-data))
   - [recruitR source](https://github.com/sportsdataverse/recruitR) ([Docs](https://recruitR.sportsdataverse.org/))
   - [usfootballR source](https://github.com/sportsdataverse/usfootballR) ([Docs](https://usfootballR.sportsdataverse.org/))
-  - [@sportsdataverse/nhl](https://github.com/saiemgilani/sportsdataverse-nhl) 
+  - [@sportsdataverse/nhl](https://github.com/saiemgilani/sportsdataverse-nhl)
 
 
-  Projects I contribute to: 
+  Projects I contribute to:
   - [baseballr source](https://github.com/billpetti/baseballr) ([Docs](https://billpetti.github.io/baseballr/))
   - [fastRhockey source](https://github.com/sportsdataverse/fastRhockey) ([Docs](https://fastRhockey.sportsdataverse.org/))
   - [ncaascrapR source](https://github.com/ehess/ncaascrapR) ([Docs](https://ehess.github.io/ncaascrapR/))
 
-  
+
 They generally fall under the umbrella of the concept of the [SportsDataverse](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"). The general goal is to make sports data significantly more open and accessible, streamlining the process of gathering public data for research.
 
-I have highlighted some of services we have been working on in this README. If you would like to help us in this endeavor, please feel encouraged to reach out. 
+I have highlighted some of services we have been working on in this README. If you would like to help us in this endeavor, please feel encouraged to reach out.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sportsdataverse?color=blue&label=%40sportsdataverse&logo=twitter&style=for-the-badge)](https://twitter.com/sportsdataverse)
-
-<a href="https://twitter.com/saiemgilani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a> <a href="https://www.linkedin.com/in/saiem-gilani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a> <a href="https://github.com/saiemgilani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a> 
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/cfbfastR?color=blue&label=%40cfbfastR&logo=twitter&style=for-the-badge)](https://twitter.com/cfbfastR)
+[![Twitter Follow](https://img.shields.io/twitter/follow/saiemgilani?color=blue&label=%40saiemgilani&logo=twitter&style=for-the-badge)](https://twitter.com/saiemgilani)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-saiem--gilani-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B66C2)](https://www.linkedin.com/in/saiem-gilani/)
+[![GitHub Follow](https://img.shields.io/github/followers/saiemgilani?color=eee&logo=Github&style=for-the-badge)](https://github.com/saiemgilani)
 
 ##  [SportsDataverse.org](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization")
-[![Twitter Follow](https://img.shields.io/twitter/follow/sportsdataverse?color=blue&label=%40sportsdataverse&logo=twitter&style=for-the-badge)](https://twitter.com/sportsdataverse)
+
 ##  [GameOnPaper.com](https://gameonpaper.com/cfb "Game on Paper: Live analytics for the modern age")
 
-<a href='https://gameonpaper.com/cfb/game/401013131'><img src='gameonpaper_screenshot.png' style="float:center;margin:20px" height="139" /></a>
+<a href='https://gameonpaper.com/cfb/game/401013131'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/gameonpaper_screenshot.png' height="139" /></a>
 
-## Node.js modules <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="50"/> </a> 
+## Node.js modules
 
-[![sportsdataverse Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sportsdataverse&hide_border=true&show_icons=true&theme=monokai)](https://github.com/sportsdataverse/sportsdataverse-js)
-
-<a href='https://www.npmjs.com/package/sportsdataverse'><img src='sdv-js.png' style="float:center;margin:20px" height="120" /></a>
+<a href='https://www.npmjs.com/package/sportsdataverse'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/sdv-js.png'  width="120" height="120" /></a>
 
 [![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://js.sportsdataverse.org/)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
-<a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse)</a>
+<a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse) </a>
 
 [**Documentation**](https://js.sportsdataverse.org/)
 
-## Python Packages <a href="https://pypi.org/user/saiemgilani/" alt="Saiem's Python Packages" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+## Python Packages
 
-<a href='https://pypi.org/project/sportsdataverse/'><img src='sdv-py-logo.png' style="float:center;margin:20px" height="120" /></a>
+<a href='https://pypi.org/project/sportsdataverse/'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/sdv-py-logo.png' width="120" height="120" /></a>
 
-[![PyPI](https://img.shields.io/pypi/v/sportsdataverse?label=sportsdataverse&logo=python&style=for-the-badge)](https://pypi.org/project/sportsdataverse/) <a href='https://pypi.org/project/sportsdataverse/'><img alt="PyPI - Down
-loads" src="https://img.shields.io/pypi/dm/sportsdataverse?style=for-the-badge"></a>
+[![PyPI](https://img.shields.io/pypi/v/sportsdataverse?label=sportsdataverse&logo=python&style=for-the-badge)](https://pypi.org/project/sportsdataverse/) <a href='https://pypi.org/project/sportsdataverse/'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/sportsdataverse?style=for-the-badge" /></a>
 
 [**Documentation**](https://py.sportsdataverse.org/)
 
-## R Packages <a href="https://www.r-project.org/" target="_blank" alt="R"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
+## R Packages
 
-<a href='http://saiemgilani.github.io/cfbfastR'><img src='cfbfastR.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/hoopR'><img src='hoopR-logo.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/wehoop'><img src='wehoop.png' style="float:center;margin:20px" height="120" /></a><a href='http://benhowell71.github.io/fastRhockey'><img src='fastRhockey-logo.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/recruitR'><img src='recruitR.png' style="float:center;margin:20px" height="120" /></a><a href='http://saiemgilani.github.io/usfootballR'><img src='usfootballR-logo.png' style="float:center;margin:20px" height="120" /></a>
+<a href='http://cfbfastR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/cfbfastR.png' width="120" height="120" /></a>
+<a href='http://hoopR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/hoopR-logo.png' width="120" height="120" /></a>
+<a href='http://wehoop.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/wehoop.png' width="120" height="120" /></a>
+<a href='http://fastRhockey.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/fastRhockey-logo.png' width="120" height="120" /></a>
+<a href='http://recruitR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/recruitR.png' width="120" height="120" /></a>
+<a href='http://usfootballR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/usfootballR-logo.png' width="120" height="120" /></a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cfbfastR?color=blue&label=%40cfbfastR&logo=twitter&style=for-the-badge)](https://twitter.com/cfbfastR)
 
 ## Data Repositories
 
