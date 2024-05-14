@@ -96,7 +96,7 @@ Some other useful repositories:
 
 ## My GitHub stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiemgilani&theme=monokai" alt="saiemgilani" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saiemgilani&theme=monokai" alt="GitHub Streak" /></a></p>
 
 <p align="left"> <a href="https://github.com/saiemgilani"><img src="https://github-profile-trophy.vercel.app/?username=saiemgilani&theme=monokai" alt="saiemgilani" /></a> </p>
   
