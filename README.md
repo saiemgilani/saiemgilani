@@ -105,7 +105,9 @@ Some other useful repositories:
 
 
 <a href="https://github.com/saiemgilani"></a><img src="https://img.shields.io/github/stars/saiemgilani?affiliations=OWNER%2CCOLLABORATOR&logo=GitHub&label=%40saiemgilani%20stars&style=for-the-badge" alt="saiemgilani stars from other users"/> 
-[![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=saiemgilani.saiemgilani&logo=GitHub&style=for-the-badge)](https://github.com/saiemgilani)
+[![](https://visitcount.itsvg.in/api?id=saiemgilani&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
+[![Saiem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saiemgilani&bg_color=000000&color=64ace3&line=076df2&point=1c90ca&area=true&hide_border=true)](https://github.com/saiemgilani)
 
 ## **My preferred languages and tools:**
 
