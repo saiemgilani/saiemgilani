@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saiem 👋</h1>
 
 <p align="center">
-  <a href="https://www.saiemgilani.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1C90CA&center=true&vCenter=true&width=640&lines=Machine+learning+engineer+%C2%B7+computer+vision+by+trade;Creator+and+maintainer+of+the+SportsDataverse;Open+sports+data+for+R%2C+Python+and+JavaScript" alt="Machine learning engineer, computer vision by trade. Creator and maintainer of the SportsDataverse. Open sports data for R, Python and JavaScript."/></a>
+  <a href="https://www.saiemgilani.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=EB1F6A&center=true&vCenter=true&width=640&lines=Machine+learning+engineer+%C2%B7+computer+vision+by+trade;Creator+and+maintainer+of+the+SportsDataverse;Open+sports+data+for+R%2C+Python+and+JavaScript" alt="Machine learning engineer, computer vision by trade. Creator and maintainer of the SportsDataverse. Open sports data for R, Python and JavaScript."/></a>
 </p>
 
 <p align="center">
@@ -9,7 +9,6 @@
   <a href="https://bsky.app/profile/saiemgilani.bsky.social"><img src="https://img.shields.io/badge/Bluesky-saiemgilani-0285FF?logo=bluesky&logoColor=white&style=for-the-badge" alt="Bluesky"/></a>
   <a href="https://x.com/saiemgilani"><img src="https://img.shields.io/badge/%40saiemgilani-000000?logo=x&logoColor=white&style=for-the-badge" alt="X"/></a>
   <a href="https://www.linkedin.com/in/saiem-gilani/"><img src="https://img.shields.io/badge/LinkedIn-saiem--gilani-white?logo=linkedin&logoColor=white&labelColor=0B66C2&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/saiemgilani"><img src="https://img.shields.io/badge/Instagram-saiemgilani-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
 </p>
 
 <p align="center">
@@ -162,32 +161,17 @@ The [notes on my site](https://www.saiemgilani.com/notes) pick up where that pap
 
 <!-- Cards are static SVGs regenerated daily by .github/workflows/profile.yml onto the output branch. -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/stats-dark.svg">
-    <img alt="Saiem Gilani's GitHub stats" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/stats-light.svg" height="170">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/top-langs-dark.svg">
-    <img alt="Most used languages" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/top-langs-light.svg" height="170">
-  </picture>
+  <img alt="Saiem Gilani's GitHub stats" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/stats.svg" height="170">
+  <img alt="Most used languages" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/top-langs.svg" height="170">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=saiemgilani&theme=github-dark-blue&hide_border=true">
-    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=saiemgilani&hide_border=true">
-  </picture>
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=saiemgilani&theme=monokai&hide_border=true">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/3d-dark.svg">
-  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/3d-light.svg">
-</picture>
+<img alt="3D contribution calendar" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/3d.svg">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/snake-dark.svg">
-  <img alt="A snake eating the contribution graph" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/snake-light.svg">
-</picture>
+<img alt="A snake eating the contribution graph" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/snake.svg">
 
 ## Languages and tools
 
