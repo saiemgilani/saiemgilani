@@ -1,16 +1,32 @@
-# Hi, I'm Saiem 👋
+<h1 align="center">Hi, I'm Saiem 👋</h1>
+
+<p align="center">
+  <a href="https://www.saiemgilani.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1C90CA&center=true&vCenter=true&width=640&lines=Machine+learning+engineer+%C2%B7+computer+vision+by+trade;Creator+and+maintainer+of+the+SportsDataverse;Open+sports+data+for+R%2C+Python+and+JavaScript" alt="Machine learning engineer, computer vision by trade. Creator and maintainer of the SportsDataverse. Open sports data for R, Python and JavaScript."/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.saiemgilani.com"><img src="https://img.shields.io/badge/saiemgilani.com-notes%20%C2%B7%20lab%20%C2%B7%20work-c0392b?style=for-the-badge" alt="saiemgilani.com"/></a>
+  <a href="https://bsky.app/profile/saiemgilani.bsky.social"><img src="https://img.shields.io/badge/Bluesky-saiemgilani-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+  <a href="https://x.com/saiemgilani"><img src="https://img.shields.io/badge/%40saiemgilani-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/saiem-gilani/"><img src="https://img.shields.io/badge/LinkedIn-saiem--gilani-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B66C2" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/saiemgilani"><img src="https://img.shields.io/badge/Instagram-saiemgilani-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/saiemgilani"><img src="https://img.shields.io/github/followers/saiemgilani?style=social&label=Follow" alt="GitHub followers"/></a>
+  <a href="https://github.com/saiemgilani?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/saiemgilani?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Stars" alt="GitHub stars"/></a>
+  <a href="https://bsky.app/profile/saiemgilani.bsky.social"><img src="https://img.shields.io/bluesky/followers/saiemgilani.bsky.social?style=social&logo=bluesky&label=Bluesky" alt="Bluesky followers"/></a>
+  <br/>
+  <a href="https://sportsdataverse.r-universe.dev"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2Fecosystem%2Fcran-downloads.json" alt="CRAN downloads of the packages I maintain"/></a>
+  <a href="https://pepy.tech/project/sportsdataverse"><img src="https://img.shields.io/pepy/dt/sportsdataverse?label=PyPI%20downloads&logo=python&logoColor=white&color=blue" alt="PyPI downloads"/></a>
+  <a href="https://www.npmjs.com/package/sportsdataverse"><img src="https://img.shields.io/npm/dt/sportsdataverse?label=npm%20downloads&logo=npm&color=blue" alt="npm downloads"/></a>
+</p>
 
 I'm a machine learning engineer, computer vision by trade, and the creator and maintainer of the
 [**SportsDataverse**](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"): R, Python
 and JavaScript packages that make public sports data easy to get at. They share the same ideas about tidy data, the
 same automated release pipeline and, where it matters, the same models. I have spent most of my evenings since 2020
 on it, and the goal hasn't changed: take the gathering out of the way of the research.
-
-[![saiemgilani.com](https://img.shields.io/badge/saiemgilani.com-notes%20%C2%B7%20lab%20%C2%B7%20work-c0392b?style=for-the-badge)](https://www.saiemgilani.com)
-[![X](https://img.shields.io/badge/%40saiemgilani-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/saiemgilani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saiem--gilani-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B66C2)](https://www.linkedin.com/in/saiem-gilani/)
-[![GitHub followers](https://img.shields.io/github/followers/saiemgilani?color=eee&logo=github&style=for-the-badge)](https://github.com/saiemgilani)
-[![Stars](https://img.shields.io/github/stars/saiemgilani?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars&style=for-the-badge)](https://github.com/saiemgilani?tab=repositories&sort=stargazers)
 
 ## What I'm working on now
 
@@ -33,6 +49,19 @@ on it, and the goal hasn't changed: take the gathering out of the way of the res
   ([write-up](https://www.saiemgilani.com/notes/blazing-the-nets-rebuilt-on-d3-v7)).
 - **[The lab](https://www.saiemgilani.com/lab)** on my site: small, runnable ideas, like querying a release file from
   the browser with DuckDB.
+
+## Latest notes
+
+From [saiemgilani.com/notes](https://www.saiemgilani.com/notes), refreshed daily from the site's
+[RSS feed](https://www.saiemgilani.com/feed.xml).
+
+<!-- BLOG-POST-LIST:START -->
+- [Blazing the Nets, rebuilt on d3 v7](https://www.saiemgilani.com/notes/blazing-the-nets-rebuilt-on-d3-v7)
+- [The badge that lies](https://www.saiemgilani.com/notes/the-badge-that-lies)
+- [sportsdataverse (Python): Sports data in Python, on polars](https://www.saiemgilani.com/notes/sportsdataverse-py)
+- [{hoopR} for Men's Basketball](https://www.saiemgilani.com/notes/intro-to-hoopR)
+- [wehoop: Access Women's Basketball Play by Play Data](https://www.saiemgilani.com/notes/wehoop)
+<!-- BLOG-POST-LIST:END -->
 
 ## Packages I build and maintain
 
@@ -128,14 +157,36 @@ The [notes on my site](https://www.saiemgilani.com/notes) pick up where that pap
   [softballR](https://github.com/sportsdataverse/softballR), [mlbplotR](https://camdenk.github.io/mlbplotR/) and
   [more](https://github.com/sportsdataverse)
 
-## My GitHub stats
+## GitHub activity
 
-[![Saiem Gilani's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&theme=monokai&layout=compact)](https://github.com/saiemgilani)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8&hide=html&hide_border=true&theme=monokai)](https://github.com/saiemgilani)
+<!-- Cards are static SVGs regenerated daily by .github/workflows/profile.yml onto the output branch. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/stats-dark.svg">
+    <img alt="Saiem Gilani's GitHub stats" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/stats-light.svg" height="170">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/top-langs-dark.svg">
+    <img alt="Most used languages" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/top-langs-light.svg" height="170">
+  </picture>
+</p>
 
-[![GitHub streak](https://streak-stats.demolab.com?user=saiemgilani&theme=monokai)](https://git.io/streak-stats)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=saiemgilani&theme=github-dark-blue&hide_border=true">
+    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=saiemgilani&hide_border=true">
+  </picture>
+</p>
 
-[![Contribution chart](https://ghchart.rshah.org/1c90ca/saiemgilani)](https://github.com/saiemgilani)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/3d-dark.svg">
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/3d-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/snake-dark.svg">
+  <img alt="A snake eating the contribution graph" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/snake-light.svg">
+</picture>
 
 ## Languages and tools
 
@@ -163,10 +214,6 @@ If the packages save you time, you can help keep the data flowing:
 - [cfbfastR-py](https://github.com/saiemgilani/cfbfastR-py), [hoopR-py](https://github.com/saiemgilani/hoopR-py) and
   [wehoop-py](https://github.com/saiemgilani/wehoop-py) (archived): folded into
   [sportsdataverse-py](https://github.com/sportsdataverse/sportsdataverse-py)
-- [hoopR-data](https://github.com/sportsdataverse/hoopR-data), [wehoop-data](https://github.com/sportsdataverse/wehoop-data)
-  and [kenpomR-data](https://github.com/saiemgilani/kenpomR-data): the original data repos, replaced by the automated
-  [sportsdataverse-data](https://github.com/sportsdataverse/sportsdataverse-data) releases
 - [sportsdataverse-nhl](https://github.com/saiemgilani/sportsdataverse-nhl): an NHL API TypeScript module
-- [pbp-data](https://github.com/saiemgilani/pbp-data): raw play-by-play JSON
 
 </details>
