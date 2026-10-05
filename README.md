@@ -1,141 +1,220 @@
-# Hi, I'm Saiem! ML Engineer, CV
-I gave a presentation on the projects below at the [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/2021/). The paper I wrote for the conference was selected as the winner for the Data and Software contribution, Open Track for their reproducible research competition.
+<h1 align="center">Hi, I'm Saiem 👋</h1>
 
-The conference materials can be found here:
-  - [Slides](https://saiemgilani.github.io/The_SportsDataverse_Initiative/)
-  - [Repository](https://github.com/saiemgilani/The_SportsDataverse_Initiative)
-  - [Paper](https://www.stat.cmu.edu/cmsac/conference/2021/assets/pdf/SaiemGilani.pdf)
+<p align="center">
+  <a href="https://www.saiemgilani.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1C90CA&center=true&vCenter=true&width=640&lines=Machine+learning+engineer+%C2%B7+computer+vision+by+trade;Creator+and+maintainer+of+the+SportsDataverse;Open+sports+data+for+R%2C+Python+and+JavaScript" alt="Machine learning engineer, computer vision by trade. Creator and maintainer of the SportsDataverse. Open sports data for R, Python and JavaScript."/></a>
+</p>
 
-I'm working on:
+<p align="center">
+  <a href="https://www.saiemgilani.com"><img src="https://img.shields.io/badge/saiemgilani.com-notes%20%C2%B7%20lab%20%C2%B7%20work-c0392b?style=for-the-badge" alt="saiemgilani.com"/></a>
+  <a href="https://bsky.app/profile/saiemgilani.bsky.social"><img src="https://img.shields.io/badge/Bluesky-saiemgilani-0285FF?logo=bluesky&logoColor=white&style=for-the-badge" alt="Bluesky"/></a>
+  <a href="https://x.com/saiemgilani"><img src="https://img.shields.io/badge/%40saiemgilani-000000?logo=x&logoColor=white&style=for-the-badge" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/saiem-gilani/"><img src="https://img.shields.io/badge/LinkedIn-saiem--gilani-white?logo=linkedin&logoColor=white&labelColor=0B66C2&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/saiemgilani"><img src="https://img.shields.io/badge/Instagram-saiemgilani-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
+</p>
 
-Honestly, so many sports data projects that should have only taken me a couple weeks.
-  - [sportsdataverse node.js source](https://github.com/sportsdataverse/sportsdataverse-js) ([Docs](https://js.sportsdataverse.org/))
-  - [sportsdataverse-py source](https://github.com/sportsdataverse/sportsdataverse-py) ([Docs](https://py.sportsdataverse.org/), [PyPI](https://pypi.org/project/sportsdataverse/))
-  - [cfbfastR source](https://github.com/sportsdataverse/cfbfastR) ([Docs](https://cfbfastR.sportsdataverse.org/), [Data](https://github.com/sportsdataverse/cfbfastR-data))
-  - [hoopR source](https://github.com/sportsdataverse/hoopR) ([Docs](https://hoopR.sportsdataverse.org/), [Data](https://github.com/sportsdataverse/hoopR-data))
-  - [wehoop source](https://github.com/sportsdataverse/wehoop) ([Docs](https://wehoop.sportsdataverse.org/), [Data](https://github.com/sportsdataverse/wehoop-data))
-  - [recruitR source](https://github.com/sportsdataverse/recruitR) ([Docs](https://recruitR.sportsdataverse.org/))
-  - [usfootballR source](https://github.com/sportsdataverse/usfootballR) ([Docs](https://usfootballR.sportsdataverse.org/))
-  - [@sportsdataverse/nhl](https://github.com/saiemgilani/sportsdataverse-nhl)
+<p align="center">
+  <a href="https://github.com/saiemgilani"><img src="https://img.shields.io/github/followers/saiemgilani?label=Follow&logo=github&logoColor=white&style=for-the-badge" alt="GitHub followers"/></a>
+  <a href="https://github.com/saiemgilani?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/saiemgilani?affiliations=OWNER%2CCOLLABORATOR&label=Stars&logo=github&logoColor=white&style=for-the-badge" alt="GitHub stars"/></a>
+  <a href="https://bsky.app/profile/saiemgilani.bsky.social"><img src="https://img.shields.io/bluesky/followers/saiemgilani.bsky.social?logo=bluesky&label=Bluesky&logoColor=white&style=for-the-badge" alt="Bluesky followers"/></a>
+  <br/>
+  <a href="https://sportsdataverse.r-universe.dev"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2Fecosystem%2Fcran-downloads.json&style=for-the-badge" alt="CRAN downloads of the packages I maintain"/></a>
+  <a href="https://pepy.tech/project/sportsdataverse"><img src="https://img.shields.io/pepy/dt/sportsdataverse?label=PyPI%20downloads&logo=python&logoColor=white&color=blue&style=for-the-badge" alt="PyPI downloads"/></a>
+  <a href="https://www.npmjs.com/package/sportsdataverse"><img src="https://img.shields.io/npm/dt/sportsdataverse?label=npm%20downloads&logo=npm&color=blue&style=for-the-badge" alt="npm downloads"/></a>
+</p>
 
+I'm a machine learning engineer, computer vision by trade, and the creator and maintainer of the
+[**SportsDataverse**](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"): R, Python
+and JavaScript packages that make public sports data easy to get at. They share the same ideas about tidy data, the
+same automated release pipeline and, where it matters, the same models. I have spent most of my evenings since 2020
+on it, and the goal hasn't changed: take the gathering out of the way of the research.
 
-  Projects I contribute to:
-  - [baseballr source](https://github.com/billpetti/baseballr) ([Docs](https://billpetti.github.io/baseballr/))
-  - [fastRhockey source](https://github.com/sportsdataverse/fastRhockey) ([Docs](https://fastRhockey.sportsdataverse.org/))
-  - [ncaascrapR source](https://github.com/ehess/ncaascrapR) ([Docs](https://ehess.github.io/ncaascrapR/))
+## What I'm working on now
 
+- **The R packages finished a long CRAN campaign in 2026.** cfbfastR, hoopR, wehoop, fastRhockey, baseballr, oddsapiR
+  and cfbseedR are all current on CRAN; the rest of the family installs from
+  [sportsdataverse.r-universe.dev](https://sportsdataverse.r-universe.dev).
+- **[sportsdataverse-py](https://py.sportsdataverse.org/) was rebuilt end to end on polars.** ESPN across every
+  league, the NBA and WNBA stats APIs, NHL, MLB and Statcast, HockeyTech, stats.ncaa.org, plus the same loaders and
+  models the R packages ship.
+- **Models ship with the data.** Every `load_*()` function reads automated releases
+  ([sportsdataverse-data](https://github.com/sportsdataverse/sportsdataverse-data/releases)): play-by-play, box
+  scores, schedules, rosters and, increasingly, fitted models (expected points, win probability, shot quality,
+  expected goals) with the training code committed beside them.
+- **Public data status.** [sportsdataverse.org/status](https://sportsdataverse.org/status) shows, nightly, how fresh
+  every producer's data is and whether its pipeline is passing.
+- **Logos, colors and headshots for plots and tables:** [sdvplotR](https://sdvplotr.sportsdataverse.org/) for ggplot2,
+  gt and reactable, and its Python sibling [sdvplot](https://sdvplot.sportsdataverse.org/) (pre-release).
+- **[Blazing the Nets](https://blazingthenets.com), rebuilt.** My 2021 Brooklyn Nets shooting dashboard, now on d3 v7
+  and Next.js and reading release parquet files at request time
+  ([write-up](https://www.saiemgilani.com/notes/blazing-the-nets-rebuilt-on-d3-v7)).
+- **[The lab](https://www.saiemgilani.com/lab)** on my site: small, runnable ideas, like querying a release file from
+  the browser with DuckDB.
 
-They generally fall under the umbrella of the concept of the [SportsDataverse](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization"). The general goal is to make sports data significantly more open and accessible, streamlining the process of gathering public data for research.
+## Latest notes
 
-I have highlighted some of services we have been working on in this README. If you would like to help us in this endeavor, please feel encouraged to reach out.
+From [saiemgilani.com/notes](https://www.saiemgilani.com/notes), refreshed daily from the site's
+[RSS feed](https://www.saiemgilani.com/feed.xml).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sportsdataverse?color=blue&label=%40sportsdataverse&logo=twitter&style=for-the-badge)](https://twitter.com/sportsdataverse)
-[![Twitter Follow](https://img.shields.io/twitter/follow/cfbfastR?color=blue&label=%40cfbfastR&logo=twitter&style=for-the-badge)](https://twitter.com/cfbfastR)
-[![Twitter Follow](https://img.shields.io/twitter/follow/saiemgilani?color=blue&label=%40saiemgilani&logo=twitter&style=for-the-badge)](https://twitter.com/saiemgilani)
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-saiem--gilani-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B66C2)](https://www.linkedin.com/in/saiem-gilani/)
-[![GitHub Follow](https://img.shields.io/github/followers/saiemgilani?color=eee&logo=Github&style=for-the-badge)](https://github.com/saiemgilani)
+<!-- BLOG-POST-LIST:START -->
+- [Blazing the Nets, rebuilt on d3 v7](https://www.saiemgilani.com/notes/blazing-the-nets-rebuilt-on-d3-v7)
+- [The badge that lies](https://www.saiemgilani.com/notes/the-badge-that-lies)
+- [sportsdataverse (Python): Sports data in Python, on polars](https://www.saiemgilani.com/notes/sportsdataverse-py)
+- [{hoopR} for Men's Basketball](https://www.saiemgilani.com/notes/intro-to-hoopR)
+- [wehoop: Access Women's Basketball Play by Play Data](https://www.saiemgilani.com/notes/wehoop)
+<!-- BLOG-POST-LIST:END -->
 
-##  [SportsDataverse.org](https://sportsdataverse.org/ "The home page of the SportsDataverse Organization")
+## Packages I build and maintain
 
-##  [GameOnPaper.com](https://gameonpaper.com/cfb "Game on Paper: Live analytics for the modern age")
-
-<a href='https://gameonpaper.com/cfb/game/401013131'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/gameonpaper_screenshot.png' height="139" /></a>
-
-## Node.js modules
-
-<a href='https://www.npmjs.com/package/sportsdataverse'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/sdv-js.png'  width="103.6" height="120" /></a>
-
-[![npm](https://img.shields.io/npm/v/sportsdataverse?style=for-the-badge)](https://js.sportsdataverse.org/)  [![npm](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse)
-<a href='https://www.npmjs.com/package/sportsdataverse'>[![NPM](https://nodei.co/npm/sportsdataverse.png)](https://npmjs.org/package/sportsdataverse) </a>
-
-[**Documentation**](https://js.sportsdataverse.org/)
-
-## Python Packages
-
-<a href='https://pypi.org/project/sportsdataverse/'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/sdv-py-logo.png' width="103.6" height="120" /></a>
-
-[![PyPI](https://img.shields.io/pypi/v/sportsdataverse?label=sportsdataverse&logo=python&style=for-the-badge)](https://pypi.org/project/sportsdataverse/) <a href='https://pypi.org/project/sportsdataverse/'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/sportsdataverse?style=for-the-badge" /></a>
-
-[**Documentation**](https://py.sportsdataverse.org/)
-
-## R Packages
-
-<a href='http://cfbfastR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/cfbfastR.png' width="103.6" height="120" /></a>
-<a href='http://hoopR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/hoopR-logo.png' width="103.6" height="120" /></a>
-<a href='http://wehoop.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/wehoop.png' width="103.6" height="120" /></a>
-<a href='http://fastRhockey.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/fastRhockey-logo.png' width="103.6" height="120" /></a>
-<a href='http://recruitR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/recruitR.png' width="103.6" height="120" /></a>
-<a href='http://usfootballR.sportsdataverse.org'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/usfootballR-logo.png' width="103.6" height="120" /></a>
-
-
-
-## Data Repositories
-
-[![cfbfastR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=sportsdataverse&repo=cfbfastR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/sportsdataverse/cfbfastR-data)<a href='https://github.com/sportsdataverse/cfbfastR-data'><img src='cfbfastR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
-
-[![hoopR-data Card](https://github-readme-stats.vercel.app/api/pin/?username=sportsdataverse&repo=hoopR-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/sportsdataverse/hoopR-data)<a href='https://github.com/sportsdataverse/hoopR-data'><img src='hoopR_data_repo.png' style="float:center;margin:20px" height="120" /></a>
-
-[![wehoop-data Card](https://github-readme-stats.vercel.app/api/pin/?username=sportsdataverse&repo=wehoop-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/sportsdataverse/wehoop-data)<a href='https://github.com/sportsdataverse/wehoop-data'><img src='wehoop_data_repo.png' style="float:center;margin:20px" height="120" /></a>
-
-[![pbp-data Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=pbp-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/pbp-data)
-
-Some other useful repositories:
-
-[![Sports Analytics Research Papers Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=sports-research-papers&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/sports-research-papers)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/saiemgilani" target="blank"><img src="https://img.shields.io/twitter/follow/saiemgilani?logo=twitter&style=for-the-badge" alt="saiemgilani" /></a> </p>
 <p align="left">
-<a href="https://www.patreon.com/join/sportsdataverse?"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /><a> </p>
+<a href="https://cfbfastR.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/cfbfastR/main/man/figures/logo.png" height="110" alt="cfbfastR"/></a>
+<a href="https://hoopR.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/hoopR/main/man/figures/logo.png" height="110" alt="hoopR"/></a>
+<a href="https://wehoop.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/wehoop/main/man/figures/logo.png" height="110" alt="wehoop"/></a>
+<a href="https://fastRhockey.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/fastRhockey/main/man/figures/logo.png" height="110" alt="fastRhockey"/></a>
+<a href="https://billpetti.github.io/baseballr/"><img src="https://raw.githubusercontent.com/BillPetti/baseballr/master/man/figures/logo.png" height="110" alt="baseballr"/></a>
+<a href="https://oddsapir.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/oddsapiR/main/man/figures/logo.png" height="110" alt="oddsapiR"/></a>
+<a href="https://cfbseedR.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/cfbseedR/main/man/figures/logo.png" height="110" alt="cfbseedR"/></a>
+<a href="https://cfb4th.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/cfb4th/main/man/figures/logo.png" height="110" alt="cfb4th"/></a>
+<a href="https://cfbplotr.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/man/figures/logo.png" height="110" alt="cfbplotR"/></a>
+<a href="https://sdvplotr.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/sdvplotR/main/man/figures/logo.png" height="110" alt="sdvplotR"/></a>
+<a href="https://recruitr.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/recruitR/main/man/figures/logo.png" height="110" alt="recruitR"/></a>
+<a href="https://usfootballr.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/usfootballR/main/man/figures/logo.png" height="110" alt="usfootballR"/></a>
+<a href="https://r.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/sportsdataverse/sportsdataverse-R/main/man/figures/logo.png" height="110" alt="sportsdataverse (R)"/></a>
+<a href="https://py.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/sdv-py-logo.png" height="110" alt="sportsdataverse-py"/></a>
+<a href="https://js.sportsdataverse.org/"><img src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/sdv-js.png" height="110" alt="sportsdataverse-js"/></a>
+</p>
 
-<details><summary>  archived </summary>
+| Package | What it covers | Version | Downloads |
+| --- | --- | --- | --- |
+| [cfbfastR](https://cfbfastR.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/cfbfastR)) | College football play-by-play, EPA and win probability | [![CRAN version](https://img.shields.io/cran/v/cfbfastR?label=CRAN&style=for-the-badge)](https://CRAN.R-project.org/package=cfbfastR) | [![CRAN downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcranlogs.r-pkg.org%2Fdownloads%2Ftotal%2F2012-10-01%3Alast-day%2FcfbfastR&query=%24%5B0%5D.downloads&label=downloads&color=blue&style=for-the-badge)](https://CRAN.R-project.org/package=cfbfastR) |
+| [hoopR](https://hoopR.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/hoopR)) | Men's basketball: ESPN, the NBA Stats API, KenPom, stats.ncaa.org | [![CRAN version](https://img.shields.io/cran/v/hoopR?label=CRAN&style=for-the-badge)](https://CRAN.R-project.org/package=hoopR) | [![CRAN downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcranlogs.r-pkg.org%2Fdownloads%2Ftotal%2F2012-10-01%3Alast-day%2FhoopR&query=%24%5B0%5D.downloads&label=downloads&color=blue&style=for-the-badge)](https://CRAN.R-project.org/package=hoopR) |
+| [wehoop](https://wehoop.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/wehoop)) | Women's basketball: ESPN, the WNBA Stats API, stats.ncaa.org | [![CRAN version](https://img.shields.io/cran/v/wehoop?label=CRAN&style=for-the-badge)](https://CRAN.R-project.org/package=wehoop) | [![CRAN downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcranlogs.r-pkg.org%2Fdownloads%2Ftotal%2F2012-10-01%3Alast-day%2Fwehoop&query=%24%5B0%5D.downloads&label=downloads&color=blue&style=for-the-badge)](https://CRAN.R-project.org/package=wehoop) |
+| [fastRhockey](https://fastRhockey.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/fastRhockey)) | NHL, PWHL and the HockeyTech leagues | [![CRAN version](https://img.shields.io/cran/v/fastRhockey?label=CRAN&style=for-the-badge)](https://CRAN.R-project.org/package=fastRhockey) | [![CRAN downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcranlogs.r-pkg.org%2Fdownloads%2Ftotal%2F2012-10-01%3Alast-day%2FfastRhockey&query=%24%5B0%5D.downloads&label=downloads&color=blue&style=for-the-badge)](https://CRAN.R-project.org/package=fastRhockey) |
+| [baseballr](https://billpetti.github.io/baseballr/) ([source](https://github.com/BillPetti/baseballr)) | Bill Petti's baseball package, which I maintain | [![CRAN version](https://img.shields.io/cran/v/baseballr?label=CRAN&style=for-the-badge)](https://CRAN.R-project.org/package=baseballr) | [![CRAN downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcranlogs.r-pkg.org%2Fdownloads%2Ftotal%2F2012-10-01%3Alast-day%2Fbaseballr&query=%24%5B0%5D.downloads&label=downloads&color=blue&style=for-the-badge)](https://CRAN.R-project.org/package=baseballr) |
+| [oddsapiR](https://oddsapir.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/oddsapiR)) | Sports odds from The Odds API | [![CRAN version](https://img.shields.io/cran/v/oddsapiR?label=CRAN&style=for-the-badge)](https://CRAN.R-project.org/package=oddsapiR) | [![CRAN downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcranlogs.r-pkg.org%2Fdownloads%2Ftotal%2F2012-10-01%3Alast-day%2FoddsapiR&query=%24%5B0%5D.downloads&label=downloads&color=blue&style=for-the-badge)](https://CRAN.R-project.org/package=oddsapiR) |
+| [cfbseedR](https://cfbseedR.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/cfbseedR)) | College football season simulation and playoff seeding | [![CRAN version](https://img.shields.io/cran/v/cfbseedR?label=CRAN&style=for-the-badge)](https://CRAN.R-project.org/package=cfbseedR) | [![CRAN downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcranlogs.r-pkg.org%2Fdownloads%2Ftotal%2F2012-10-01%3Alast-day%2FcfbseedR&query=%24%5B0%5D.downloads&label=downloads&color=blue&style=for-the-badge)](https://CRAN.R-project.org/package=cfbseedR) |
+| [cfb4th](https://cfb4th.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/cfb4th)) | Fourth-down decisions | [![R-universe version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsportsdataverse.r-universe.dev%2Fapi%2Fpackages%2Fcfb4th&query=%24.Version&label=r-universe&logo=r&color=blue&style=for-the-badge)](https://sportsdataverse.r-universe.dev/cfb4th) | |
+| [cfbplotR](https://cfbplotr.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/cfbplotR)) | College football logos and colors for ggplot2 | [![R-universe version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsportsdataverse.r-universe.dev%2Fapi%2Fpackages%2FcfbplotR&query=%24.Version&label=r-universe&logo=r&color=blue&style=for-the-badge)](https://sportsdataverse.r-universe.dev/cfbplotR) | |
+| [sdvplotR](https://sdvplotr.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/sdvplotR)) | Logos, colors, headshots and themes across leagues for ggplot2, gt and reactable | [![R-universe version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsportsdataverse.r-universe.dev%2Fapi%2Fpackages%2FsdvplotR&query=%24.Version&label=r-universe&logo=r&color=blue&style=for-the-badge)](https://sportsdataverse.r-universe.dev/sdvplotR) | |
+| [recruitR](https://recruitr.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/recruitR)) | College recruiting rankings | [![R-universe version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsportsdataverse.r-universe.dev%2Fapi%2Fpackages%2FrecruitR&query=%24.Version&label=r-universe&logo=r&color=blue&style=for-the-badge)](https://sportsdataverse.r-universe.dev/recruitR) | |
+| [usfootballR](https://usfootballr.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/usfootballR)) | MLS and NWSL from ESPN | [![R-universe version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsportsdataverse.r-universe.dev%2Fapi%2Fpackages%2FusfootballR&query=%24.Version&label=r-universe&logo=r&color=blue&style=for-the-badge)](https://sportsdataverse.r-universe.dev/usfootballR) | |
+| [sportsdataverse (R)](https://r.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/sportsdataverse-R)) | The meta-package that installs and loads the family | [![R-universe version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsportsdataverse.r-universe.dev%2Fapi%2Fpackages%2Fsportsdataverse&query=%24.Version&label=r-universe&logo=r&color=blue&style=for-the-badge)](https://sportsdataverse.r-universe.dev/sportsdataverse) | |
+| [sportsdataverse (Python)](https://py.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/sportsdataverse-py)) | Every league above in one polars-first package | [![PyPI version](https://img.shields.io/pypi/v/sportsdataverse?label=PyPI&style=for-the-badge)](https://pypi.org/project/sportsdataverse/) | [![PyPI downloads](https://img.shields.io/pepy/dt/sportsdataverse?label=downloads&color=blue&style=for-the-badge)](https://pepy.tech/project/sportsdataverse) |
+| [sdvplot](https://sdvplot.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/sdvplot)) | Python sibling of sdvplotR (pre-release) | not yet on PyPI | |
+| [sportsdataverse (Node.js)](https://js.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/sportsdataverse-js)) | ESPN, 247Sports and NCAA endpoints for Node.js | [![npm version](https://img.shields.io/npm/v/sportsdataverse?label=npm&style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse) | [![npm downloads](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse) |
 
-[![cfbscrapR-archived Card](https://github-readme-stats.vercel.app/api/pin/?username=saiemgilani&repo=cfbscrapR&hide_border=true&show_icons=true&theme=monokai)](https://github.com/saiemgilani/cfbscrapR)<a href='http://saiemgilani.github.io/cfbscrapR'><img src='cfbscrapR.png' style="float:center;margin:20px" height="120" /></a>
+Every package has a printable one-page cheat sheet at
+**[sportsdataverse.org/cheatsheets](https://sportsdataverse.org/cheatsheets)**.
+
+## Data status
+
+Live, from the nightly [ecosystem snapshot](https://sportsdataverse.org/status). Out of season a league reads *idle* rather than *stale*; red means its
+update pipeline failed.
+
+[![CFB](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2FcfbfastR-cfb-data%2Fstatus.json&label=CFB&style=for-the-badge)](https://github.com/sportsdataverse/cfbfastR-cfb-data/actions)
+[![NFL](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2Fnfl-data%2Fstatus.json&label=NFL&style=for-the-badge)](https://github.com/sportsdataverse/nfl-data/actions)
+[![NBA](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2FhoopR-nba-data%2Fstatus.json&label=NBA&style=for-the-badge)](https://github.com/sportsdataverse/hoopR-nba-data/actions)
+[![MBB](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2FhoopR-mbb-data%2Fstatus.json&label=MBB&style=for-the-badge)](https://github.com/sportsdataverse/hoopR-mbb-data/actions)
+[![WNBA](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2Fwehoop-wnba-data%2Fstatus.json&label=WNBA&style=for-the-badge)](https://github.com/sportsdataverse/wehoop-wnba-data/actions)
+[![WBB](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2Fwehoop-wbb-data%2Fstatus.json&label=WBB&style=for-the-badge)](https://github.com/sportsdataverse/wehoop-wbb-data/actions)
+[![NHL](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2FfastRhockey-nhl-data%2Fstatus.json&style=for-the-badge&label=NHL)](https://github.com/sportsdataverse/fastRhockey-nhl-data/actions)
+[![PWHL](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2FfastRhockey-pwhl-data%2Fstatus.json&label=PWHL&style=for-the-badge)](https://github.com/sportsdataverse/fastRhockey-pwhl-data/actions)
+[![MLB](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2Fbaseballr-data%2Fstatus.json&label=MLB&style=for-the-badge)](https://github.com/sportsdataverse/baseballr-data/actions)
+
+## Projects
+
+### [Game on Paper](https://gameonpaper.com/cfb "Game on Paper: live analytics for the modern age")
+
+Live college football analytics built on the same expected-points and win-probability models the packages ship
+([source](https://github.com/saiemgilani/game-on-paper-app)).
+
+<a href='https://gameonpaper.com/cfb/game/401013131'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/gameonpaper_screenshot.png' height="139" alt="Game on Paper game page"/></a>
+
+### More
+
+- [Blazing the Nets](https://blazingthenets.com): Brooklyn Nets shot charts, hex maps and shooting signatures
+  ([source](https://github.com/saiemgilani/blazing-the-nets)).
+- [saiemgilani.com](https://www.saiemgilani.com): [notes](https://www.saiemgilani.com/notes) on each package, written
+  one at a time, and the [lab](https://www.saiemgilani.com/lab).
+- [Sports-Research-Papers](https://github.com/saiemgilani/Sports-Research-Papers): a curated reading list of sports
+  analytics research.
+
+## Talks and writing
+
+I presented the SportsDataverse at the
+[Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/2021/) in 2021. The paper won
+the Data and Software contribution in the reproducible research competition's open track.
+[Slides](https://saiemgilani.github.io/The_SportsDataverse_Initiative/) ·
+[Repository](https://github.com/saiemgilani/The_SportsDataverse_Initiative) ·
+[Paper](https://www.stat.cmu.edu/cmsac/conference/2021/assets/pdf/SaiemGilani.pdf)
+
+The [notes on my site](https://www.saiemgilani.com/notes) pick up where that paper left off, one package at a time.
+
+## Projects I contribute to
+
+- [ncaascrapR](https://ehess.github.io/ncaascrapR/): Eric Hess's NCAA scraper ([source](https://github.com/ehess/ncaascrapR))
+- The FSU Sports Analytics Club course packages, [fsu-sac](https://github.com/sportsdataverse/fsu-sac) and
+  [fsu-sac-2025](https://github.com/sportsdataverse/fsu-sac-2025)
+- Community packages in the SportsDataverse family: [sportyR / sportypy](https://sportyr.sportsdataverse.org/),
+  [softballR](https://github.com/sportsdataverse/softballR), [mlbplotR](https://camdenk.github.io/mlbplotR/) and
+  [more SportsDataverse packages](https://github.com/sportsdataverse)
+
+## GitHub activity
+
+<!-- Cards are static SVGs regenerated daily by .github/workflows/profile.yml onto the output branch. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/stats-dark.svg">
+    <img alt="Saiem Gilani's GitHub stats" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/stats-light.svg" height="170">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/top-langs-dark.svg">
+    <img alt="Most used languages" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/top-langs-light.svg" height="170">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=saiemgilani&theme=github-dark-blue&hide_border=true">
+    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=saiemgilani&hide_border=true">
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/3d-dark.svg">
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/3d-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/snake-dark.svg">
+  <img alt="A snake eating the contribution graph" src="https://raw.githubusercontent.com/saiemgilani/saiemgilani/output/snake-light.svg">
+</picture>
+
+## Languages and tools
+
+**Data and ML:** Python, R, polars, pandas, DuckDB, XGBoost, scikit-learn, PyTorch, TensorFlow, OpenCV
+
+[![Data and ML](https://skillicons.dev/icons?i=py,r,pytorch,tensorflow,sklearn,opencv,postgres,sqlite,redis)](https://skillicons.dev)
+
+**Web and apps:** TypeScript, React, Next.js, Node.js, d3, FastAPI
+
+[![Web and apps](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,d3,fastapi)](https://skillicons.dev)
+
+**Infrastructure:** Docker, GitHub Actions, Vercel, AWS, GCP, Azure, Linux
+
+[![Infrastructure](https://skillicons.dev/icons?i=docker,githubactions,vercel,aws,gcp,azure,linux,bash)](https://skillicons.dev)
+
+## Support
+
+If the packages save you time, you can help keep the data flowing:
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-support-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge)](https://ko-fi.com/sportsdataverse)
+· release notes and new datasets by email at [sportsdataverse.org/join](https://sportsdataverse.org/join).
+
+<details><summary>Earlier work</summary>
+
+- [cfbscrapR](https://github.com/saiemgilani/cfbscrapR) (archived): the college football scraper that became cfbfastR
+- [cfbfastR-py](https://github.com/saiemgilani/cfbfastR-py), [hoopR-py](https://github.com/saiemgilani/hoopR-py) and
+  [wehoop-py](https://github.com/saiemgilani/wehoop-py) (archived): folded into
+  [sportsdataverse-py](https://github.com/sportsdataverse/sportsdataverse-py)
+- [sportsdataverse-nhl](https://github.com/saiemgilani/sportsdataverse-nhl): an NHL API TypeScript module
+
 </details>
-
-
-## My GitHub stats
-
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saiemgilani&theme=monokai" alt="GitHub Streak" /></a></p>
-
-<p align="left"> <a href="https://github.com/saiemgilani"><img src="https://github-profile-trophy.vercel.app/?username=saiemgilani&theme=monokai" alt="saiemgilani" /></a> </p>
-  
-[![Saiem Gilani's github stats](https://github-readme-stats.vercel.app/api?username=saiemgilani&show_icons=true&hide_border=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/saiemgilani/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiemgilani&langs_count=8&hide=html&hide_border=true&theme=monokai)](https://github.com/saiemgilani)
-
-
-<a href="https://github.com/saiemgilani"></a><img src="https://img.shields.io/github/stars/saiemgilani?affiliations=OWNER%2CCOLLABORATOR&logo=GitHub&label=%40saiemgilani%20stars&style=for-the-badge" alt="saiemgilani stars from other users"/> 
-[![](https://visitcount.itsvg.in/api?id=saiemgilani&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
-[![Saiem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saiemgilani&bg_color=000000&color=64ace3&line=076df2&point=1c90ca&area=true&hide_border=true)](https://github.com/saiemgilani)
-
-## **My preferred languages and tools:**
-
-### **Machine Learning/Engineering**
-
-<a href="https://www.python.org" alt="python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" alt="R"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a><a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a>  <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-
-### **JS**
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>   <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a><a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a><a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-
-### **Cloud Platforms and CL/CI/CD**
-
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
-
-****
-
-<!--
-**saiemgilani/saiemgilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
