@@ -4,6 +4,8 @@
 # Static files instead of hot-linked Vercel instances: two of the old README's cards
 # (profile trophies, activity graph) died when their free hosting lapsed (HTTP 402),
 # and github-readme-stats now recommends this Action over its public instance.
+# The default GITHUB_TOKEN is enough: the 3D calendar's count matches the profile's
+# own contribution calendar (private contributions follow the profile setting).
 name: profile
 
 on:
@@ -13,7 +15,7 @@ on:
   push:
     branches: [main]
     paths: [".github/workflows/profile.yml"]
-  # a PR that changes this file regenerates the cards so the PR can be previewed
+  # a PR that changes this file builds every card but publishes nothing
   pull_request:
     paths: [".github/workflows/profile.yml"]
 
@@ -24,51 +26,64 @@ concurrency:
   group: profile
   cancel-in-progress: false
 
+env:
+  # hide=stars: the card counts stars on repos this account owns (~160), not the
+  # SportsDataverse org repos it maintains; the README's star badge has the real total
+  STATS_OPTIONS: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide=stars
+  LANGS_OPTIONS: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=html,css,tsql&hide_border=true
+
 jobs:
   cards:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
+      # fail_on_error: a failed card stops the run, so yesterday's cards stay up
+      # instead of being replaced by an error card
       - name: Stats card (dark)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=github_dark
+          options: ${{ env.STATS_OPTIONS }}&theme=github_dark
           path: dist/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
       - name: Stats card (light)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=default
+          options: ${{ env.STATS_OPTIONS }}&theme=default
           path: dist/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
       - name: Top languages (dark)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=html,css,tsql&hide_border=true&theme=github_dark
+          options: ${{ env.LANGS_OPTIONS }}&theme=github_dark
           path: dist/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
       - name: Top languages (light)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=html,css,tsql&hide_border=true&theme=default
+          options: ${{ env.LANGS_OPTIONS }}&theme=default
           path: dist/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: 3D contribution calendar
-        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Contribution snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/snake-light.svg
             dist/snake-dark.svg?palette=github-dark
@@ -77,14 +92,17 @@ jobs:
         run: |
           cp profile-3d-contrib/profile-night-rainbow.svg dist/3d-dark.svg
           cp profile-3d-contrib/profile-season.svg dist/3d-light.svg
+          ls -l dist
 
       - name: Publish to the output branch
-        uses: crazy-max/ghaction-github-pages@v5
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
           target_branch: output
           build_dir: dist
           jekyll: false
           commit_message: "chore: regenerate profile cards"
+          # PR runs prove the cards build; only main publishes them
+          dry_run: ${{ github.event_name == 'pull_request' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -93,8 +111,8 @@ jobs:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
         with:
           feed_list: "https://www.saiemgilani.com/feed.xml"
           max_post_count: 5
