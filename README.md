@@ -206,6 +206,7 @@ The [notes on my site](https://www.saiemgilani.com/notes) pick up where that pap
 ## Support
 
 If the packages save you time, you can help keep the data flowing:
+[![Become a member on Patreon](https://img.shields.io/badge/Patreon-become%20a%20member-F96854?logo=patreon&logoColor=white&style=for-the-badge)](https://www.patreon.com/sportsdataverse)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-support-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge)](https://ko-fi.com/sportsdataverse)
 · release notes and new datasets by email at [sportsdataverse.org/join](https://sportsdataverse.org/join).
 
