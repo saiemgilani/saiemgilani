@@ -39,37 +39,23 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       # fail_on_error: a failed card stops the run, so yesterday's cards stay up
-      # instead of being replaced by an error card
-      - name: Stats card (dark)
+      # instead of being replaced by an error card.
+      # Every card uses the monokai theme (a dark card on both light and dark pages),
+      # so one file per card replaces the old light/dark pairs.
+      - name: Stats card
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
-          options: ${{ env.STATS_OPTIONS }}&theme=github_dark
-          path: dist/stats-dark.svg
+          options: ${{ env.STATS_OPTIONS }}&theme=monokai
+          path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
-      - name: Stats card (light)
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
-        with:
-          card: stats
-          options: ${{ env.STATS_OPTIONS }}&theme=default
-          path: dist/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-      - name: Top languages (dark)
+      - name: Top languages
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
-          options: ${{ env.LANGS_OPTIONS }}&theme=github_dark
-          path: dist/top-langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-      - name: Top languages (light)
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
-        with:
-          card: top-langs
-          options: ${{ env.LANGS_OPTIONS }}&theme=default
-          path: dist/top-langs-light.svg
+          options: ${{ env.LANGS_OPTIONS }}&theme=monokai
+          path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
@@ -84,14 +70,14 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          # snk has no monokai preset: monokai pink snake, monokai-green ramp on the
+          # theme's line-highlight grey (#3e3d32) for empty days
           outputs: |
-            dist/snake-light.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg?color_snake=#f92672&color_dots=#3e3d32,#4b5a20,#6d8b24,#8fb828,#a6e22e
 
-      - name: Collect the 3D calendars
+      - name: Collect the 3D calendar
         run: |
-          cp profile-3d-contrib/profile-night-rainbow.svg dist/3d-dark.svg
-          cp profile-3d-contrib/profile-season.svg dist/3d-light.svg
+          cp profile-3d-contrib/profile-gitblock.svg dist/3d.svg
           ls -l dist
 
       - name: Publish to the output branch
