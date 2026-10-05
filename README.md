@@ -58,9 +58,9 @@ From [saiemgilani.com/notes](https://www.saiemgilani.com/notes), refreshed daily
 <!-- BLOG-POST-LIST:START -->
 - [Blazing the Nets, rebuilt on d3 v7](https://www.saiemgilani.com/notes/blazing-the-nets-rebuilt-on-d3-v7)
 - [The badge that lies](https://www.saiemgilani.com/notes/the-badge-that-lies)
-- [sportsdataverse (Python): Sports data in Python, on polars](https://www.saiemgilani.com/notes/sportsdataverse-py)
-- [{hoopR} for Men's Basketball](https://www.saiemgilani.com/notes/intro-to-hoopR)
-- [wehoop: Access Women's Basketball Play by Play Data](https://www.saiemgilani.com/notes/wehoop)
+- [cfbseedR: Simulate and Evaluate College Football Seasons](https://www.saiemgilani.com/notes/cfbseedr)
+- [sportsdataversedata: sportsdataverse data storage functions](https://www.saiemgilani.com/notes/sportsdataversedata)
+- [sdvplotR: Sports Team Logo Plots in &#39;ggplot2&#39;, &#39;gt&#39; and &#39;reactable&#39;](https://www.saiemgilani.com/notes/sdvplotr)
 <!-- BLOG-POST-LIST:END -->
 
 ## Packages I build and maintain
