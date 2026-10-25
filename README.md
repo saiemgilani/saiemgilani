@@ -17,8 +17,8 @@
   <a href="https://bsky.app/profile/saiemgilani.bsky.social"><img src="https://img.shields.io/bluesky/followers/saiemgilani.bsky.social?logo=bluesky&label=Bluesky&logoColor=white&style=for-the-badge" alt="Bluesky followers"/></a>
   <br/>
   <a href="https://sportsdataverse.r-universe.dev"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsportsdataverse%2F.github%2Fmain%2Fstatus%2Fbadges%2Fecosystem%2Fcran-downloads.json&style=for-the-badge" alt="CRAN downloads of the packages I maintain"/></a>
-  <a href="https://pepy.tech/project/sportsdataverse"><img src="https://img.shields.io/pepy/dt/sportsdataverse?label=PyPI%20downloads&logo=python&logoColor=white&color=blue&style=for-the-badge" alt="PyPI downloads"/></a>
-  <a href="https://www.npmjs.com/package/sportsdataverse"><img src="https://img.shields.io/npm/dt/sportsdataverse?label=npm%20downloads&logo=npm&color=blue&style=for-the-badge" alt="npm downloads"/></a>
+  <a href="https://pepy.tech/projects/sportsdataverse"><img src="https://img.shields.io/pepy/dt/sportsdataverse?label=PyPI%20downloads&logo=python&logoColor=white&color=blue&style=for-the-badge" alt="PyPI downloads"/></a>
+  <a href="https://www.npmjs.com/package/sportsdataverse"><img src="https://img.shields.io/npm/d18m/sportsdataverse?label=npm%20downloads%20%2818%20mo%29&logo=npm&color=blue&style=for-the-badge" alt="npm downloads, last 18 months"/></a>
 </p>
 
 I'm a machine learning engineer, computer vision by trade, and the creator and maintainer of the
@@ -42,7 +42,7 @@ on it, and the goal hasn't changed: take the gathering out of the way of the res
 - **Public data status.** [sportsdataverse.org/status](https://sportsdataverse.org/status) shows, nightly, how fresh
   every producer's data is and whether its pipeline is passing.
 - **Logos, colors and headshots for plots and tables:** [sdvplotR](https://sdvplotr.sportsdataverse.org/) for ggplot2,
-  gt and reactable, and its Python sibling [sdvplot](https://sdvplot.sportsdataverse.org/) (pre-release).
+  gt and reactable, and its Python sibling [sdvplot](https://sdvplot.sportsdataverse.org/), now on PyPI.
 - **[Blazing the Nets](https://blazingthenets.com), rebuilt.** My 2021 Brooklyn Nets shooting dashboard, now on d3 v7
   and Next.js and reading release parquet files at request time
   ([write-up](https://www.saiemgilani.com/notes/blazing-the-nets-rebuilt-on-d3-v7)).
@@ -97,8 +97,8 @@ From [saiemgilani.com/notes](https://www.saiemgilani.com/notes), refreshed daily
 | [recruitR](https://recruitr.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/recruitR)) | College recruiting rankings | [![R-universe version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsportsdataverse.r-universe.dev%2Fapi%2Fpackages%2FrecruitR&query=%24.Version&label=r-universe&logo=r&color=blue&style=for-the-badge)](https://sportsdataverse.r-universe.dev/recruitR) | |
 | [usfootballR](https://usfootballr.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/usfootballR)) | MLS and NWSL from ESPN | [![R-universe version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsportsdataverse.r-universe.dev%2Fapi%2Fpackages%2FusfootballR&query=%24.Version&label=r-universe&logo=r&color=blue&style=for-the-badge)](https://sportsdataverse.r-universe.dev/usfootballR) | |
 | [sportsdataverse (R)](https://r.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/sportsdataverse-R)) | The meta-package that installs and loads the family | [![R-universe version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsportsdataverse.r-universe.dev%2Fapi%2Fpackages%2Fsportsdataverse&query=%24.Version&label=r-universe&logo=r&color=blue&style=for-the-badge)](https://sportsdataverse.r-universe.dev/sportsdataverse) | |
-| [sportsdataverse (Python)](https://py.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/sportsdataverse-py)) | Every league above in one polars-first package | [![PyPI version](https://img.shields.io/pypi/v/sportsdataverse?label=PyPI&style=for-the-badge)](https://pypi.org/project/sportsdataverse/) | [![PyPI downloads](https://img.shields.io/pepy/dt/sportsdataverse?label=downloads&color=blue&style=for-the-badge)](https://pepy.tech/project/sportsdataverse) |
-| [sdvplot](https://sdvplot.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/sdvplot)) | Python sibling of sdvplotR (pre-release) | not yet on PyPI | |
+| [sportsdataverse (Python)](https://py.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/sportsdataverse-py)) | Every league above in one polars-first package | [![PyPI version](https://img.shields.io/pypi/v/sportsdataverse?label=PyPI&style=for-the-badge)](https://pypi.org/project/sportsdataverse/) | [![PyPI downloads](https://img.shields.io/pepy/dt/sportsdataverse?label=downloads&color=blue&style=for-the-badge)](https://pepy.tech/projects/sportsdataverse) |
+| [sdvplot](https://sdvplot.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/sdvplot)) | Python sibling of sdvplotR | [![PyPI version](https://img.shields.io/pypi/v/sdvplot?label=PyPI&style=for-the-badge)](https://pypi.org/project/sdvplot/) | [![PyPI downloads](https://img.shields.io/pepy/dt/sdvplot?label=downloads&color=blue&style=for-the-badge)](https://pepy.tech/projects/sdvplot) |
 | [sportsdataverse (Node.js)](https://js.sportsdataverse.org/) ([source](https://github.com/sportsdataverse/sportsdataverse-js)) | ESPN, 247Sports and NCAA endpoints for Node.js | [![npm version](https://img.shields.io/npm/v/sportsdataverse?label=npm&style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse) | [![npm downloads](https://img.shields.io/npm/dm/sportsdataverse?style=for-the-badge)](https://www.npmjs.com/package/sportsdataverse) |
 
 Every package has a printable one-page cheat sheet at
@@ -121,12 +121,12 @@ update pipeline failed.
 
 ## Projects
 
-### [Game on Paper](https://gameonpaper.com/cfb "Game on Paper: live analytics for the modern age")
+### [Game on Paper](https://gameonpaper.com/ "Game on Paper: live analytics for the modern age")
 
 Live college football analytics built on the same expected-points and win-probability models the packages ship
 ([source](https://github.com/saiemgilani/game-on-paper-app)).
 
-<a href='https://gameonpaper.com/cfb/game/401013131'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/gameonpaper_screenshot.png' height="139" alt="Game on Paper game page"/></a>
+<a href='https://gameonpaper.com/game/401013131'><img src='https://raw.githubusercontent.com/saiemgilani/saiemgilani/main/gameonpaper_screenshot.png' height="139" alt="Game on Paper game page"/></a>
 
 ### More
 
